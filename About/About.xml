@@ -23,6 +23,13 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 
 	<modDependencies>
 		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
+		</li>
+
+		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li>
@@ -37,11 +44,6 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 		<li>
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Rimworld</displayName>
-
-		<li>
-			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
-			<displayName>Log Publisher from HugsLib</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404</steamWorkshopUrl>
 		</li>
 		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
@@ -49,11 +51,11 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
 		</li>
+
 		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
+			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
+			<displayName>Log Publisher from HugsLib</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404</steamWorkshopUrl>
 		</li>
 
 	</modDependencies>
