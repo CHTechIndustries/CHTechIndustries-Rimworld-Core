@@ -42,10 +42,6 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 			<displayName>Royalty</displayName>
 		</li>
 		<li>
-			<packageId>ludeon.rimworld</packageId>
-			<displayName>Rimworld</displayName>
-		</li>
-		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
 			<displayName>Vanilla Expanded Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
