@@ -1,5 +1,1 @@
-Add own bases to the android genes, so I don't have to manually change core component and category on a per-gene basis, as well as isolating my genes somewhat
-
-Add images to Unlocker Path genes
-
-Make an automatic changelog on github for a changelog.md
+replace preview image with an image representing TdT, not just my personal "official" image (basically, make an "official" image for TdT)

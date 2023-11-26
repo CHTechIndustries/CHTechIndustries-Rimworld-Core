@@ -7,6 +7,7 @@
 		<li>1.4</li>
 	</supportedVersions>
 	<description>A simple core for all mods by The Dynamic Trio!
+Designed to add small fixes, centralize code that is useful for our mods, and ensure certain load orders are enforced
 
 
 FAQ
@@ -33,6 +34,9 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
 		</li>
+		<li>
+			<packageId>ludeon.rimworld</packageId>
+			<displayName>Rimworld</displayName>
 
 		<li>
 			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
@@ -55,12 +59,17 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 	</modDependencies>
 	<loadAfter>
 		<li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
-		<li>kentington.saveourshipck</li>
-		<li>shg.next</li>
-		<li>com.torodo.godlytraitst</li>
+		<li>ludeon.rimworld</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>brrainz.harmony</li>
 	</loadAfter>
 	<loadBefore>
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>edb.preparecarefully</li>
 	</loadBefore>
+	<incompatibleWith>
+	</incompatibleWith>
 </ModMetaData>
