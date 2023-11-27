@@ -16,11 +16,7 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 
 Q: What does this mod do?
 A: Not much. Mostly just to centrilize the mods made by The Dynamic Trio, and contain shared code when needed, to prevent needing to double up on dependencies and such.
-
-Q: Why does this mod need all DLC's?
-A: Simple. Right now, the mod is less "modular", so it can't easilly handle having both features that vary depending on mods, and features that vary depending on DLC's. (So, it was either this or 70+ mod requirments) The goal is to, eventually, not have the DLC's as a hard requirment, but untill then...
-</description>
-
+	</description>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -29,18 +25,6 @@ A: Simple. Right now, the mod is less "modular", so it can't easilly handle havi
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
 
-		<li>
-			<packageId>Ludeon.RimWorld.Biotech</packageId>
-			<displayName>Biotech</displayName>
-		</li>
-		<li>
-			<packageId>ludeon.rimworld.ideology</packageId>
-			<displayName>Ideology</displayName>
-		</li>
-		<li>
-			<packageId>ludeon.rimworld.royalty</packageId>
-			<displayName>Royalty</displayName>
-		</li>
 		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
 			<displayName>Vanilla Expanded Framework</displayName>
