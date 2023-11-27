@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+    <version>1.4.3901 rev238</version>
+    <activeMods>
+        <li>brrainz.harmony</li>
+        <li>ludeon.rimworld</li>
+        <li>ludeon.rimworld.royalty</li>
+        <li>ludeon.rimworld.ideology</li>
+        <li>ludeon.rimworld.biotech</li>
+        <li>gege.customxenotypeexportertool</li>
+        <li>gege.exportedxenotypestoragemodfolder</li>
+        <li>jaxe.publisherplus.v14</li>
+        <li>petre27.biotechbalancedcapacitorgenes</li>
+        <li>biotexpans.core</li>
+        <li>biotexpans.mammalia</li>
+        <li>biotexpans.mythic</li>
+        <li>redmattis.betterprerequisites</li>
+        <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>sarg.alphabiomes</li>
+        <li>vanillaracesexpanded.genie</li>
+        <li>vanillaracesexpanded.highmate</li>
+        <li>morebiotechstylegenes.mod</li>
+        <li>vanillaracesexpanded.android</li>
+        <li>sarg.alphagenes</li>
+        <li>sov.homelander</li>
+        <li>superherogenesbase.mod</li>
+        <li>ebsg.aio</li>
+        <li>tuarre.gengenderratio</li>
+        <li>sniperspine.mod</li>
+        <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+        <li>tdt.core</li>
+        <li>vanillaracesexpanded.customicons</li>
+        <li>vanillaracesexpanded.fungoid</li>
+        <li>vanillaracesexpanded.hussar</li>
+        <li>vanillaracesexpanded.phytokin</li>
+        <li>vanillaracesexpanded.sanguophage</li>
+        <li>vanillaracesexpanded.saurid</li>
+        <li>vanillaracesexpanded.waster</li>
+        <li>winglessflight.gene</li>
+        <li>tdt.morexenos</li>
+        <li>superherogenes.expensivebase</li>
+        <li>superherogenes.villains</li>
+        <li>tdt.morexenos.shg+</li>
+        <li>smashphil.xmlpatchhelper</li>
+    </activeMods>
+    <knownExpansions>
+        <li>ludeon.rimworld</li>
+        <li>ludeon.rimworld.royalty</li>
+        <li>ludeon.rimworld.ideology</li>
+        <li>ludeon.rimworld.biotech</li>
+    </knownExpansions>
+</ModsConfigData>
