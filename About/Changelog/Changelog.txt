@@ -8,3 +8,10 @@ Removed core as a requirment
 Uploaded with changelog, because I'd forgoten to update it for the previous update
 Edited Publisher+ XML to be better prepared
 Put Changelog in proper place
+
+1.1.0
+Removed Ideology, Biotech, and Royalty as requirments
+
+1.1.1
+Put load order in
+Put in rimpy lists for the new mods I'm working on
