@@ -1,0 +1,17 @@
+This realitivly simple mod is the basis of many enhancments to other mods. It starts with Xenotypes Expanded and Merged, which is designed to patch many xenos to be integrated and more in-line with one another, along with a few miscilaneus patches. The next group of mods slowly but surley enhances the mods, adding in multiple new mods, as well as creating its own genes. The final mod requires all the previous ones, and patches them to work seamlesly together. Perfect, eh?
+
+The mods it has extra xenos are: 
+
+Also,here are some mods that are recommended to go with this mod: [olist] 
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Un-Limited[/url] by Grimm to allow percentages to go above normal, such as inate armour above 200%.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880595382]Limitless Deathrest[/url] by DemonX3 for your extra-OP sangophages
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2998479989]Meaty Baby Food[/url] by StarkRavingSane
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url] by Jdalt40
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934118873]BK's Babies can eat Nutrient Paste[/url] by Brent Kerman
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976373966]Sniper Spine[/url] by Alite, so your piercing spine is actually, you know, useful.[/olist]
+
+[url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483325095/]Mods with planned integration[/url]
+
+[url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483048880/]FAQ (with some sarcasm, jokes, and attitude. Hopefully the answers make you smile and laugh (don't care if it's with or at me, laughters laughter) as much as I did while writing them!)[/url]
