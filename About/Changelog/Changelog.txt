@@ -15,3 +15,8 @@ Removed Ideology, Biotech, and Royalty as requirments
 1.1.1
 Put load order in
 Put in rimpy lists for the new mods I'm working on
+
+1.1.2
+Added XML extensions as a requirment
+Updated steam description
+Improved folder structure

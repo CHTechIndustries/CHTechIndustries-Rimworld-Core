@@ -1,17 +1,30 @@
-This realitivly simple mod is the basis of many enhancments to other mods. It starts with Xenotypes Expanded and Merged, which is designed to patch many xenos to be integrated and more in-line with one another, along with a few miscilaneus patches. The next group of mods slowly but surley enhances the mods, adding in multiple new mods, as well as creating its own genes. The final mod requires all the previous ones, and patches them to work seamlesly together. Perfect, eh?
+A simple core for all mods by The Dynamic Trio!
+Designed to add small fixes, centralize code that is useful for our mods, and ensure certain load orders are enforced
 
-The mods it has extra xenos are: 
+This mod is a very, very simple core for all mods by The Dynamic Trio!
 
-Also,here are some mods that are recommended to go with this mod: [olist] 
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Un-Limited[/url] by Grimm to allow percentages to go above normal, such as inate armour above 200%.
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880595382]Limitless Deathrest[/url] by DemonX3 for your extra-OP sangophages
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2998479989]Meaty Baby Food[/url] by StarkRavingSane
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url] by Jdalt40
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934118873]BK's Babies can eat Nutrient Paste[/url] by Brent Kerman
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976373966]Sniper Spine[/url] by Alite, so your piercing spine is actually, you know, useful.[/olist]
+What it does is ensure mods that are needed for all other mods are loaded, so we don't have to mark mods like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013]Vanilla Expanded Framework[/url] as a requirment, Vanilla Expanded Framework is already there, so we don't have to make the others force-install it!
 
-[url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483325095/]Mods with planned integration[/url]
+It also includes some general XML patches (well, will), and some pieces of code for all the other mods.
 
-[url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483048880/]FAQ (with some sarcasm, jokes, and attitude. Hopefully the answers make you smile and laugh (don't care if it's with or at me, laughters laughter) as much as I did while writing them!)[/url]
+FAQ
+Q: CE Compatible?
+A: Uh... sure. There might be "unintented features" (especially as more code is added) that we can't guarentee to fix, but you do you and all!
+
+Q: Why does this mod need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony[/url]
+A: Harmony is a library with lots of useful, powerful, code. There is a reason most mods either require it, or require a framework that requires it. Even if I didin't need it, Vanilla Expanded Framework does, so either way you'll need it!
+
+Q: Okay, so why is Vanilla Expanded Framework required?
+A: Once again, lots of useful code, and it's very, very helpful. Without it, many mods would be impossible. Not to mention, lots of my mods require mods that, you guessed it, requires Vanilla Expanded Framework!
+
+Q: Okay, fair enough. So, why does it need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
+A: Once again, lots of very useful code. It allows for things like mod settings via XML, not coding, as well as much more complex, dynamic patches. Eventually, as I get better with it, it will easily decrease the complexity of patches in my mods.
+
+Q: So, you have explained the others, but why is [url=https://steamcommunity.com/workshop/filedetails/?id=2873415404]Log Publisher from HugsLib[/url] required?
+A: Well, this one is less important. Technecially speaking, it's not used. But, the log publisher is [i]very[/i] useful for people sending bug reports. So, this is a requirment to ensure people have it availiable. So, you could run this core without it just fine, so long as you are okay with errors, and not being able to properly report bugs!
+
+Q: Why is this FAQ in the form of more like a conversation?
+A: Not sure, but who cares! Obviously you had no issue, as you got down to here!
+
+Q: Okay, after reading all these, I have to ask, are you okay? Like, mentally?
+A: No. No I am not. I am definitly insane. Thanks for asking!
