@@ -38,7 +38,7 @@ Designed to add a few things. Mostly centrealized code, general patches, ect, as
 			<displayName>XML Extensions</displayName>
 			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
-    </li>
+		</li>
 
 	</modDependencies>
 	<loadAfter>
