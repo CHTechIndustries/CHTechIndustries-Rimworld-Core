@@ -5,7 +5,7 @@ Note to self: check every so often if PublisherHelper (original) is updated, and
 
 Changelog might eventually go through a major re-write, such as me adding earlier changes to it (includeing updates before when I started the file), and (eventually) changing the version numbers inside. Right now, those numbers are "notes", once I use github-releases and have "official" releace versions, then I will go through and make the versions match that, (and, once that hapens, convention prevents any more edits of previous entries, but right now it's more just notes than a true changelog)
 
-
+Once SuperEngie and DopeUnicorn909 have rimworld and we work on this together in earnest, add their names back to the author sections.
 
 Other notes (important for all mods)
 
