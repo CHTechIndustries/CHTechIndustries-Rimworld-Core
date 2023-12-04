@@ -20,3 +20,9 @@ Put in rimpy lists for the new mods I'm working on
 Added XML extensions as a requirment
 Updated steam description
 Improved folder structure
+
+1.1.2
+Improved folder structure drasticly
+Added link to about file (currently only goes to steam page, will one day probaly link to a wiki (most likley using github)
+added version number to about file (to be precise, 1.1.2)
+Removed SuperEngie and DopeUnicorn909 as authors, leaving just The Dynamic Trio and CTH2004. The reason is that, while both of them are part of "the Dynamic Trio", I'm the only one making this specific mod. So, they are included in "The Dynamic Trio" as they do help, but since they aren't making code additions, it's mostly by me right now. Once they have rimworld and we begin to work together on it, they shall be back!
