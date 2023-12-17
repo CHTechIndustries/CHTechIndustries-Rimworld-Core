@@ -12,6 +12,7 @@
         <li>petre27.biotechbalancedcapacitorgenes</li>
         <li>biotexpans.core</li>
         <li>gege.customxenotypeexportertool</li>
+        <li>ebsg.framework</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>sarg.alphaanimals</li>
         <li>sarg.alphabiomes</li>
@@ -20,7 +21,6 @@
         <li>superherogenesbase.mod</li>
         <li>ebsg.aio</li>
         <li>ebsg.archite</li>
-        <li>ebsg.framework</li>
         <li>tuarre.gengenderratio</li>
         <li>sincere.gifuploader</li>
         <li>xenofell.hermaphroditegene</li>
@@ -37,6 +37,7 @@
         <li>tdt.core</li>
         <li>tdt.genesextended</li>
         <li>tdt.morexenos</li>
+        <li>gege.exportedxenotypestoragemodfolder</li>
         <li>smashphil.xmlpatchhelper</li>
     </activeMods>
     <knownExpansions>
