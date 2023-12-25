@@ -47,11 +47,12 @@ Designed to add a few things. Mostly centrealized code, general patches, ect, as
 		<li>ludeon.rimworld.biotech</li>
 		<li>brrainz.harmony</li>
 		
-		<!-- Frameworks I might one day work with, meaning they would need to be above this, even though right now it doesn't matter per-say -->
+		<!-- Frameworks I might one day work with and expand, meaning they would need to be above this, even though right now it doesn't matter per-say -->
 		<li>ebsg.framework</li>
 		<li>superherogenesbase.mod</li>
 		<li>sarg.alphagenes</li>
 		<li>redmattis.betterprerequisites</li>
+		<li>kaitorisenkou.bodywarper.framework</li>
 		
 		<li>TdT.devOrder</li>
 
