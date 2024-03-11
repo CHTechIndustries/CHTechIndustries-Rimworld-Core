@@ -39,3 +39,8 @@ Modified description to highly recommend the unlimited mods
 did some background work due to the integration of my Xenotype mod into my gene mod
 added a highly recommended mods discussion
 updated steam description, bigtime
+
+1.2.1
+fixed the lists (background)
+published it correctly via publisher plus (apparently some genius forgot it wasn't enabled... not going to name names, CTH2004
+added a folder to do something with publisher plus easier

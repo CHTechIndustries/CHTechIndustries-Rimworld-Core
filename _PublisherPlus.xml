@@ -6,5 +6,6 @@
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>SECURITY.md</exclude>
 	<exclude>PersonalLinks</exclude>
+	<exclude>About\Mod Lists\Debug (Shortcuts to temporary locations)</exclude>
   </Excluded>
 </Configuration>
