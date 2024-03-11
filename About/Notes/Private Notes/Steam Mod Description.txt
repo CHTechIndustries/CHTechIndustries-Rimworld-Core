@@ -28,7 +28,7 @@ Q: So, you have explained the others, but why is [url=https://steamcommunity.com
 A: Well, this one is less important. Technecially speaking, it's not used. But, the log publisher is [i]very[/i] useful for people sending bug reports. So, this is a requirment to ensure people have it availiable. So, you could run this core without it just fine, so long as you are okay with errors, and not being able to properly report bugs!
 
 Q: Wait, just saw you added [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Unlimited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url]. Why?
-A: Well, that's because some (read most) of my mods are manipulating needs and stats, so haveing them improves the overall gameplay so much they are necesary!
+A: Well, that's because some (read most) of my mods are manipulating needs and stats, so haveing them improves the overall gameplay so much they are necesary! (you might need an armour unlimiting mod, can't tell if the required one does. if it doesn't, try [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009]UnLimitedArmor[/url] by Paragon
 
 Q: Did you recommend those mods in the "highly encouraged" area for similar resons?
 A: Wow, your getting good at this! Yes, I did.those mods, while the efect isn't enough to be worthy of a requirment, cause enough of a benifit that they are, in a way "pseudo-requriments". For more info (i'm still working on the title and text), see [url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Here[/url]

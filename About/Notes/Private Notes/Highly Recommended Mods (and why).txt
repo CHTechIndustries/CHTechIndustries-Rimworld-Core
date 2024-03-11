@@ -5,6 +5,9 @@ This is a list of mods that work very well with this mod (my other mods might al
 [*][b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh[/b]
 this mod allows you to have pawns not waste nutrition when the food would put them a little over 100%, and makes other sources of increased max nutrition work better
 
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009]UnLimitedArmor[/url] by Paragon
+not sure if it's necessary, but (unless you have Super Hero Genes (which is an optional dependency of my gene mod)), it's unknown if Un-Limmited also affects armour (I've gotten conflicting answers. Primarily "no". However, it might be a simple xml patch, in which case I might do it eventually)
+
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
 this way, if you get too many gizmos because of mods, you can scroll!
 [/list]
