@@ -31,3 +31,11 @@ Removed SuperEngie and DopeUnicorn909 as authors, leaving just The Dynamic Trio 
 Added a load before and load after to ensure this is always below frameworks, in case this ever performs patches on them.
 Altered description
 Set up wiki
+
+1.2.0
+Removed the list for the xenos mod, as it's obsolete and integrated into my genes mod
+made the mod require some utility mods that improve all mods I use (Unlimited, No More Lethal Damage Threshold)
+Modified description to highly recommend the unlimited mods
+did some background work due to the integration of my Xenotype mod into my gene mod
+added a highly recommended mods discussion
+updated steam description, bigtime

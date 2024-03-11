@@ -1,0 +1,15 @@
+This is a list of mods that work very well with this mod (my other mods might also work great with another group, which will be mentioned in that mod). Also, if the mod is bolded, that means I consider it a near-necesity for useage
+
+[list]
+
+[*][b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh[/b]
+this mod allows you to have pawns not waste nutrition when the food would put them a little over 100%, and makes other sources of increased max nutrition work better
+
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
+this way, if you get too many gizmos because of mods, you can scroll!
+[/list]
+
+
+
+
+

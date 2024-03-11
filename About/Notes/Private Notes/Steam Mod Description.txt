@@ -7,6 +7,10 @@ What it does is ensure mods that are needed for all other mods are loaded, so we
 
 It also includes some general XML patches (well, will), and some pieces of code for all the other mods.
 
+Also, the following mods are highly encouraged: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh
+[/list]		
+
 FAQ
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" (especially as more code is added) that we can't guarentee to fix, but you do you and all!
@@ -22,6 +26,12 @@ A: Once again, lots of very useful code. It allows for things like mod settings 
 
 Q: So, you have explained the others, but why is [url=https://steamcommunity.com/workshop/filedetails/?id=2873415404]Log Publisher from HugsLib[/url] required?
 A: Well, this one is less important. Technecially speaking, it's not used. But, the log publisher is [i]very[/i] useful for people sending bug reports. So, this is a requirment to ensure people have it availiable. So, you could run this core without it just fine, so long as you are okay with errors, and not being able to properly report bugs!
+
+Q: Wait, just saw you added [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Unlimited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url]. Why?
+A: Well, that's because some (read most) of my mods are manipulating needs and stats, so haveing them improves the overall gameplay so much they are necesary!
+
+Q: Did you recommend those mods in the "highly encouraged" area for similar resons?
+A: Wow, your getting good at this! Yes, I did.those mods, while the efect isn't enough to be worthy of a requirment, cause enough of a benifit that they are, in a way "pseudo-requriments". For more info (i'm still working on the title and text), see [url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Here[/url]
 
 Q: Why is this FAQ in the form of more like a conversation?
 A: Not sure, but who cares! Obviously you had no issue, as you got down to here!
