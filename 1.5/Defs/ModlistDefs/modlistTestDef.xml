@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<savedModList>
+		<meta>
+			<gameVersion>1.4.3704 rev896</gameVersion>
+			<modIds>
+				<li>brrainz.harmony</li>
+				<li>ludeon.rimworld</li>
+				<li>ludeon.rimworld.royalty</li>
+				<li>ludeon.rimworld.ideology</li>
+				<li>ludeon.rimworld.biotech</li>
+				<li>kentington.saveourship2</li>
+				<li>thamuzz.livingbuildingframework</li>
+				<li>thamuzz.sos2bioship</li>
+				<li>kenx00x.xenotypeandideologybuttonstitlescreen</li>
+				<li>edb.preparecarefully</li>
+				<li>murmur.walllight</li>
+				<li>paczelok.vanimemesosconti</li>
+				<li>vanillaexpanded.vmemese</li>
+				<li>kenx00x.moremaxmemes</li>
+				<li>sarg.alphamemes</li>
+				<li>co.uk.epicguru.whatsthatmod</li>
+			</modIds>
+			<modSteamIds>
+				<li>0</li>
+				<li>0</li>
+				<li>1149640</li>
+				<li>1392840</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+			</modSteamIds>
+			<modNames>
+				<li>Harmony</li>
+				<li>Core</li>
+				<li>Royalty</li>
+				<li>Ideology</li>
+				<li>Biotech</li>
+				<li>Save Our Ship 2</li>
+				<li>Living Building Framework</li>
+				<li>SoS2 Bioship</li>
+				<li>Xenotype And Ideology Buttons TitleScreen</li>
+				<li>EdB Prepare Carefully</li>
+				<li>Wall Light</li>
+				<li>Save Our Ship 2 Meme Addon C0NT1N\/3D</li>
+				<li>Vanilla Ideology Expanded - Memes and Structures</li>
+				<li>More Max Memes</li>
+				<li>Alpha Memes</li>
+				<li>What's That Mod</li>
+			</modNames>
+		</meta>
+		<modList>
+			<ids>
+				<li>brrainz.harmony</li>
+				<li>ludeon.rimworld</li>
+				<li>ludeon.rimworld.royalty</li>
+				<li>ludeon.rimworld.ideology</li>
+				<li>ludeon.rimworld.biotech</li>
+				<li>kentington.saveourship2</li>
+				<li>thamuzz.livingbuildingframework</li>
+				<li>thamuzz.sos2bioship</li>
+				<li>kenx00x.xenotypeandideologybuttonstitlescreen</li>
+				<li>edb.preparecarefully</li>
+				<li>murmur.walllight</li>
+				<li>paczelok.vanimemesosconti</li>
+				<li>co.uk.epicguru.whatsthatmod</li>
+			</ids>
+			<names>
+				<li>Harmony</li>
+				<li>Core</li>
+				<li>Royalty</li>
+				<li>Ideology</li>
+				<li>Biotech</li>
+				<li>Save Our Ship 2</li>
+				<li>Living Building Framework</li>
+				<li>SoS2 Bioship</li>
+				<li>Xenotype And Ideology Buttons TitleScreen</li>
+				<li>EdB Prepare Carefully</li>
+				<li>Wall Light</li>
+				<li>Save Our Ship 2 Meme Addon C0NT1N\/3D</li>
+				<li>What's That Mod</li>
+			</names>
+		</modList>
+	</savedModList>
+</Defs>
