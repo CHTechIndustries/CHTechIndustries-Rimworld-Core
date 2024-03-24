@@ -44,3 +44,8 @@ updated steam description, bigtime
 fixed the lists (background)
 published it correctly via publisher plus (apparently some genius forgot it wasn't enabled... not going to name names, CTH2004
 added a folder to do something with publisher plus easier
+
+v 2.0.0
+change ID (mod breaking)
+update to 1.5 as well (compatible with both, excluding the fact that some of the requirments aren't updated)
+Updated mod lists to reflect new ID's
