@@ -7,13 +7,15 @@
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
-        <li>oskarpotocki.vanillafactionsexpanded.core</li>
-        <li>hlx.gestaltengine</li>
         <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+        <li>jdalt.nomorelethaldamagethreshold</li>
         <li>imranfish.xmlextensions</li>
-        <li>tdt.core</li>
+        <li>grimm.unlimited</li>
+        <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>chtech.core</li>
+        <li>hlx.gestaltengine</li>
         <li>hlx.vanometricgenerator</li>
-        <li>tdt.ges</li>
+        <li>chtech.ges</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
