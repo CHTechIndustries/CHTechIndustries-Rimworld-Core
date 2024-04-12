@@ -45,6 +45,11 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
 		</li>
 		<li>
+			<packageId>neronix17.tweaksgalore</packageId>
+			<displayName>Tweaks Galore</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414</steamWorkshopUrl>
+		</li>
+		<!-- <li>
 			<packageId>grimm.unlimited</packageId>
 			<displayName>Un-Limited</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382</steamWorkshopUrl>
@@ -53,7 +58,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<packageId>jdalt.nomorelethaldamagethreshold</packageId>
 			<displayName>No More Lethal Damage Threshold</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690</steamWorkshopUrl>
-		</li>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 		<li>ludeon.rimworld</li>
@@ -63,6 +68,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>brrainz.harmony</li>
 		<li>grimm.unlimited</li>
 		<li>paragon.hanul.unlimitedarmor</li>
+		<li>neronix17.tweaksgalore</li>
 		
 		<!-- Frameworks I might one day work with and expand, meaning they would need to be above this, even though right now it doesn't matter per-say -->
 		<li>ebsg.framework</li>
