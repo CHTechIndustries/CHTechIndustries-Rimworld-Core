@@ -8,7 +8,7 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.2</modVersion>
+	<modVersion>2.0.3</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -54,8 +54,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<displayName>Un-Limited</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382</steamWorkshopUrl>
 		</li>
-		useful, but kinda outdated for my needs. Kept incase I change my mind
-		<!--
+		<!--useful, but kinda outdated for my needs. Kept incase I change my mind 
 		<li>
 			<packageId>jdalt.nomorelethaldamagethreshold</packageId>
 			<displayName>No More Lethal Damage Threshold</displayName>
