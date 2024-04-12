@@ -55,3 +55,14 @@ updated some requirments
 removed outdated requirment
 put better mod in
 started moveing some things around in background
+
+v2.0.2
+updated changelog for entire mod
+changed version number from 2.0.0
+fixed a link
+fixed a file name
+updated steam description
+fixed a requirment I'd mistyped
+
+v2.0.3
+updated other mods, and added their new lists
