@@ -67,3 +67,4 @@ fixed a requirment I'd mistyped
 v2.0.3
 updated other mods, and added their new lists
 fixed an issue with my comments, so that red error (should) be gone (Famous last words, am I right)
+put all my old, half finished mods into a folder (along with some notes), so I can slowly transfer the features. If you go to my mod, you can manually take the contents out. They work, but have very few features. I have a note in each one saying which mod(s) I currently plan on mergeing it with, so you can look and get a general idea of some future updates!
