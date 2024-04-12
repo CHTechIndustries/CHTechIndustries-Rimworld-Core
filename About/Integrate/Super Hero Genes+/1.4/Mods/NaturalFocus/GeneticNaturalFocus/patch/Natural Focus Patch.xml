@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<Patch>
+    <OperationClass="PatchOperationAttributeSet>
+        <XPath>/Defs/ThingDef[defName="NaturalFocus"]</xPath>
+        <attribute>Name</attribute>
+	<value>NaturalFocus</value>
+    </Operation>
+</Patch>
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<GeneDef Name="Natural_Focus" Abstract="True">
+	</GeneDef>
+
+<GeneDef Name="CTH_SHG_TribalUnblockerPath_Base" ParentName="Natural_Focus" Abstract="True">
+	</GeneDef>
+
+
+</Defs>
