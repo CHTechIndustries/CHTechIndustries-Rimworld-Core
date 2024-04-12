@@ -49,3 +49,9 @@ v 2.0.0
 change ID (mod breaking)
 update to 1.5 as well (compatible with both, excluding the fact that some of the requirments aren't updated)
 Updated mod lists to reflect new ID's
+
+v2.0.1
+updated some requirments
+removed outdated requirment
+put better mod in
+started moveing some things around in background
