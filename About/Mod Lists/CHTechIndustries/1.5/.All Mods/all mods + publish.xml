@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.4.3901 rev238</version>
+    <version>1.5.4063 rev1071</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
         <li>redmattis.betterprerequisites</li>
+        <li>unlimitedhugs.hugslib</li>
+        <li>isorex.pawneditor</li>
+        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
+        <li>neronix17.toolbox</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>morebiotechstylegenes.mod</li>
         <li>sarg.alphagenes</li>
-        <li>void.charactereditor</li>
-        <li>gege.customxenotypeexportertool</li>
-        <li>edb.preparecarefully</li>
-        <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
-        <li>jaxe.publisherplus.v14</li>
-        <li>gege.translationassistanttool</li>
-        <li>co.uk.epicguru.whatsthatmod</li>
-        <li>imranfish.xmlextensions</li>
-        <li>kenx00x.xenotypeandideologybuttonstitlescreen</li>
-        <li>chtech.devorder</li>
         <li>ebsg.framework</li>
-        <li>jdalt.nomorelethaldamagethreshold</li>
+        <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+        <li>neronix17.tweaksgalore</li>
+        <li>imranfish.xmlextensions</li>
         <li>grimm.unlimited</li>
         <li>chtech.core</li>
         <li>hlx.gestaltengine</li>
         <li>hlx.vanometricgenerator</li>
         <li>chtech.ges</li>
+        <li>chtech.opthings.pack</li>
         <li>ebsg.aio</li>
         <li>ebsg.archite</li>
-        <li>chtech.rimworldextended.augment</li>
-        <li>gege.exportedxenotypestoragemodfolder</li>
+        <li>chtech.rimworldextended.main</li>
         <li>smashphil.xmlpatchhelper</li>
     </activeMods>
     <knownExpansions>
@@ -39,5 +37,6 @@
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
     </knownExpansions>
 </ModsConfigData>
