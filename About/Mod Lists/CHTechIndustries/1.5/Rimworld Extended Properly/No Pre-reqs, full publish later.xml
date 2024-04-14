@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4062 rev831</version>
+    <version>1.5.4063 rev1071</version>
     <activeMods>
         <li>ludeon.rimworld</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
         <li>chtech.rimworldextended.main</li>
         <li>chtech.devorder</li>
     </activeMods>
@@ -14,5 +15,6 @@
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
     </knownExpansions>
 </ModsConfigData>
