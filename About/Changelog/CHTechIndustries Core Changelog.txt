@@ -69,3 +69,9 @@ updated other mods, and added their new lists
 fixed an issue with my comments, so that red error (should) be gone (Famous last words, am I right)
 put all my old, half finished mods into a folder (along with some notes), so I can slowly transfer the features. If you go to my mod, you can manually take the contents out. They work, but have very few features. I have a note in each one saying which mod(s) I currently plan on mergeing it with, so you can look and get a general idea of some future updates!
 Added all of my mods to the mod lists
+
+v2.0.4
+added a spreadsheet that can check to see if an items description is past steams maximum (or what I think it is)
+	Technically not important, as it isn't uploaded to steam, and is only on github. But, it is a change
+added in finalized lists for OP Thingamajing Mod (and published it)
+moved lists into a folder of "CHTechIndustries Mods", and added a folder for framework examples (frameworks that have an example included)
