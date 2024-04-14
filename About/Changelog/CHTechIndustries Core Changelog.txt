@@ -75,3 +75,5 @@ added a spreadsheet that can check to see if an items description is past steams
 	Technically not important, as it isn't uploaded to steam, and is only on github. But, it is a change
 added in finalized lists for OP Thingamajing Mod (and published it)
 moved lists into a folder of "CHTechIndustries Mods", and added a folder for framework examples (frameworks that have an example included)
+added modlists that included all
+updated modlists to include anomally
