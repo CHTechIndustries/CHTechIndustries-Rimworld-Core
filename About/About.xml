@@ -66,6 +66,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>ludeon.rimworld.royalty</li>
 		<li>ludeon.rimworld.ideology</li>
 		<li>ludeon.rimworld.biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
 		<li>brrainz.harmony</li>
 		<li>grimm.unlimited</li>
 		<li>paragon.hanul.unlimitedarmor</li>
@@ -83,6 +84,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>void.charactereditor</li>
 	</loadAfter>
 	<loadBefore>	
+		<li>chtech.opThings.Pack</li>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
