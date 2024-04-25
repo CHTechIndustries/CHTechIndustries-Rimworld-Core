@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4063 rev1071</version>
+    <version>1.5.4069 rev95</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -9,10 +9,10 @@
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>edb.preparecarefully</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>neronix17.toolbox</li>
         <li>co.uk.epicguru.whatsthatmod</li>
-        <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
         <li>neronix17.tweaksgalore</li>
         <li>imranfish.xmlextensions</li>
         <li>grimm.unlimited</li>
