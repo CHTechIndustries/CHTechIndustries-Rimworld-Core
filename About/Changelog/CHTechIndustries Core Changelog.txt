@@ -77,3 +77,6 @@ added in finalized lists for OP Thingamajing Mod (and published it)
 moved lists into a folder of "CHTechIndustries Mods", and added a folder for framework examples (frameworks that have an example included)
 added modlists that included all
 updated modlists to include anomally
+removed requirment for Hugslib Publisher, and just recommended it
+Update Steam Description
+Modified "Recommended Mods" discussion

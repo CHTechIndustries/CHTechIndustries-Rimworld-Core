@@ -10,6 +10,8 @@ not sure if it's necessary, but (unless you have Super Hero Genes (which is an o
 
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
 this way, if you get too many gizmos because of mods, you can scroll!
+
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=818773962]Hugs Lib[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Publisher from Hugs Lib[/url]: great for publishing logs, practicly necessary for bug fixing
 [/list]
 
 
