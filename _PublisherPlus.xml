@@ -5,8 +5,8 @@
 	<exclude>.github</exclude>
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>About\Description and Discussion\To Be Added</exclude>
+	<exclude>About\Description and Discussion\Integrate</exclude>
 	<exclude>SECURITY.md</exclude>
 	<exclude>PersonalLinks</exclude>
-	<exclude>About\Mod Lists\Debug (Shortcuts to temporary locations)</exclude>
   </Excluded>
 </Configuration>
