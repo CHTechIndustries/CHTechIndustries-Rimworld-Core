@@ -24,8 +24,8 @@ A: Once again, lots of useful code, and it's very, very helpful. Without it, man
 Q: Okay, fair enough. So, why does it need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
 A: Once again, lots of very useful code. It allows for things like mod settings via XML, not coding, as well as much more complex, dynamic patches. Eventually, as I get better with it, it will easily decrease the complexity of patches in my mods.
 
-Q: Wait, just saw you added [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Unlimited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url]. Why?
-A: Well, that's because some (read most) of my mods are manipulating needs and stats, so haveing them improves the overall gameplay so much they are necesary! (you might need an armour unlimiting mod, can't tell if the required one does. if it doesn't, try [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009]UnLimitedArmor[/url] by Paragon
+Q: Alright, so why do you have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094]Tabula Rausua[/url] as a requriment?
+A: Well, two reasons. The first is that it's a soft (recommended) requirment of another mod, which I suspect you'll be asking in the next question. The other is it's a framework that I might use, and since something else can use it... 
 
 Q: Why exactly is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url] there?
 A: Well, I used to recommend a different mod, but this one has more features and is more robust. It does require you to manually enable it, but it has the ability to turn off Lethal Damage Threshold, which is highly recommended. (a future update will make settings default to those, and might remove the Unlimited requirment)

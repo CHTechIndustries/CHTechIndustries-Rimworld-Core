@@ -16,7 +16,7 @@ This mod is designed for a few simple things:
 2. simple patche's for rimworld
 3. ensure specific load orders, such as makeing sure a core always loads above my mods, without manual specification
 
-Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended.
+Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
 	</description>
 	<modDependencies>
 		<li>
