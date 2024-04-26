@@ -80,3 +80,7 @@ updated modlists to include anomally
 removed requirment for Hugslib Publisher, and just recommended it
 Update Steam Description
 Modified "Recommended Mods" discussion
+Removed Grimms Unlimited
+Added Tweaks Galore (and tabula rausa)
+added other frameworks into the "load order", for future reference/ reminding me of future ideas/ just to keep them in a logical place
+improved folder structure
