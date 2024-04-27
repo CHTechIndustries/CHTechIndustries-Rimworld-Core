@@ -90,6 +90,9 @@ removed tabula rausa
 drasticly improved description
 added a line about support of CE to FAQ
 added tabula rausa to "Recommended Mods" (and note: it might become a dependency again)
-moved a few folders so Publisher Plus works again, so extraneus files don't bog down the downloads
 add mod icon
 mentioned a few more highly recomended mods
+continued to try to get Publisher+ working, so extraneus files don't bog down the downloads
+	tried moving folders
+	tried removing a folder that contained old about files (shouldn't cause an issue but worth a try)
+	copied another mods functional one into it, and added in the extra folders so no changes to it was necessary
