@@ -8,7 +8,7 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.4</modVersion>
+	<modVersion>2.0.5</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -43,11 +43,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<displayName>Tweaks Galore</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>neronix17.toolbox</packageId>
-			<displayName>Tabula Rasa</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094</steamWorkshopUrl>
-		</li>
+
 	</modDependencies>
 	<loadAfter>
 		<li>ludeon.rimworld</li>
@@ -69,7 +65,8 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>hailuan.customquestframework</li>
 		<li>neronix17.asimov</li>
 		<li>q308744928.cadframework</li>
-		
+		<li>neronix17.toolbox</li>
+
 		<!-- misc mods -->
 		<li>chtech.devorder</li>
 		<li>void.charactereditor</li>
