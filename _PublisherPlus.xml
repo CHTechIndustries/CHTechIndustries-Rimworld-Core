@@ -5,8 +5,11 @@
 	<exclude>.github</exclude>
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>About\Description and Discussion\To Be Added</exclude>
-	<exclude>About\Integrate</exclude>
 	<exclude>SECURITY.md</exclude>
+	<exclude>Textures\.baseIcons</exclude>
+	<exclude>.branchLog</exclude>
+	<exclude>About\Incomplete</exclude>
+	<exclude>About\Lists</exclude>
 	<exclude>PersonalLinks</exclude>
   </Excluded>
 </Configuration>
