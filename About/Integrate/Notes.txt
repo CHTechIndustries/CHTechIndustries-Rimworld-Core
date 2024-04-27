@@ -1,1 +1,0 @@
-Inside each folder will be a note of wether it's a canidate for both, or only 1. Do note that this might change as I begin integrateing
