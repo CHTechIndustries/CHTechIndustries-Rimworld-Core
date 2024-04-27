@@ -84,3 +84,12 @@ Removed Grimms Unlimited
 Added Tweaks Galore (and tabula rausa)
 added other frameworks into the "load order", for future reference/ reminding me of future ideas/ just to keep them in a logical place
 improved folder structure
+
+v2.0.5
+removed tabula rausa
+drasticly improved description
+added a line about support of CE to FAQ
+added tabula rausa to "Recommended Mods" (and note: it might become a dependency again)
+moved a few folders so Publisher Plus works again, so extraneus files don't bog down the downloads
+add mod icon
+mentioned a few more highly recomended mods
