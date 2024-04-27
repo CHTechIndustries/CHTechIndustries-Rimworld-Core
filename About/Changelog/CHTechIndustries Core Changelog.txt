@@ -98,3 +98,9 @@ continued to try to get Publisher+ working, so extraneus files don't bog down th
 	tried removing a folder that contained old about files (shouldn't cause an issue but worth a try)
 	copied another mods functional one into it, and added in the extra folders so no changes to it was necessary
 still not working, reporting to moder. so, not quite optimized file, not too bad though
+
+v2.0.6
+fixed my mistake that made Publisher+ not work. It was a stupid mistake, I dare say...
+	to do it, I've removed the 1.4 archive mod lists, and removed the lists from the 1.5 folder
+	Sortened the CHTechIndustries section to CHTech
+	
