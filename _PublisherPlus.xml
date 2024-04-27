@@ -5,7 +5,7 @@
 	<exclude>.github</exclude>
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>About\Description and Discussion\To Be Added</exclude>
-	<exclude>About\Description and Discussion\Integrate</exclude>
+	<exclude>About\Integrate</exclude>
 	<exclude>SECURITY.md</exclude>
 	<exclude>PersonalLinks</exclude>
   </Excluded>
