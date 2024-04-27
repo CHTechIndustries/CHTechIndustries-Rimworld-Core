@@ -6,13 +6,16 @@ Designed to do multiple things, including (but not limited to): [olist]
 [*]Easy Guarentee that my mods are bellow frameworks that they might use (as this core is bellow those frameworks, and those mods bellow this core)
 [/olist]
 
-What it does is ensure mods that are needed for all other mods are loaded, so we don't have to mark mods like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013]Vanilla Expanded Framework[/url] as a requirment, Vanilla Expanded Framework is already there, so we don't have to make the others force-install it!
+So, anyways, what mods need it?
+Well: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Extended: Properly[/url] requires CHTechIndustries Core
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441]OP Thingamajing Mod[/url] optionally uses CHTechIndustries Core, but using this core in conjunction is highly, [i]highly[/i] recommended
+[/list]
 
-It also includes some general XML patches (well, will), and some pieces of code for all the other mods.
-
-Also, the following mods are highly encouraged: [list]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh
-[/list]		
+Then, while there are many [i][url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Recommended Mods[/url][/i], a few of them are also soft (meaning they activate more content, but aren't needed) compatibilities:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094]Tabula Rasa[/url]
+[/list]
 
 FAQ
 Q: CE Compatible?
