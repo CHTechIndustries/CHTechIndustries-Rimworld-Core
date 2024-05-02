@@ -103,4 +103,8 @@ v2.0.6
 fixed my mistake that made Publisher+ not work. It was a stupid mistake, I dare say...
 	to do it, I've removed the 1.4 archive mod lists, and removed the lists from the 1.5 folder
 	Sortened the CHTechIndustries section to CHTech
-	
+
+v2.0.7
+modified so about file has less extraneus parts, and made notes
+added a mention of un-un-limmited, and recommended it
+added un-un-limmited to order
