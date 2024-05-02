@@ -1,22 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>CHTechIndustries Core</name>
-	<author>CTH2004, The Dynamic Trio</author>
+	<author>CTH2004, Zyro, The Dynamic Trio</author>
 	<packageId>CHTech.core</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.7</modVersion>
+	<modVersion>2.0.8</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
 1. centralized code for all CHTechIndustries mods
-2. simple patche's for rimworld
+2. simple patche's for rimworld (credit to Zyro for them)
 3. ensure specific load orders, such as makeing sure a core always loads above my mods, without manual specification
 
 Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
+
+Also, thank you to:
+	Zyro, for Un-Un-Limmited, which is integrated into this mod. if you only want that patch, go check out his mod!
 	</description>
 	<modDependencies>
 		<li>
@@ -38,11 +41,6 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>neronix17.tweaksgalore</packageId>
-			<displayName>Tweaks Galore</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414</steamWorkshopUrl>
-		</li>
 
 	</modDependencies>
 	<loadAfter>
@@ -55,7 +53,8 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<!-- frameworks that should be above this (soft compatibility/ ordering for compat -->
 		<li>ebsg.framework</li>
 		<li>neronix17.toolbox</li>
-		<li>zyro.ununlimited</li>
+		<li>neronix17.tweaksgalore</li>
+		
 		
 		
 		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
@@ -92,5 +91,6 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
+		<li>zyro.ununlimited</li> <!-- code is used here too -->
 	</incompatibleWith>
 </ModMetaData>
