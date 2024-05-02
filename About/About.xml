@@ -8,7 +8,7 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.6</modVersion>
+	<modVersion>2.0.7</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -52,20 +52,28 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
 		
-		
-		<!-- Frameworks/ mods I plan on working with, and might expand one day via this mod and expand, meaning they would need to be above this, even though right now it doesn't matter per-say -->
+		<!-- frameworks that should be above this (soft compatibility/ ordering for compat -->
 		<li>ebsg.framework</li>
-		<li>superherogenesbase.mod</li>
-		<li>sarg.alphagenes</li>
-		<li>redmattis.betterprerequisites</li>
-		<li>kaitorisenkou.bodywarper.framework</li>
 		<li>neronix17.toolbox</li>
-		<li>smashphil.vehicleframework</li>
-		<li>thesepeople.ritualattachableoutcomes</li>
-		<li>hailuan.customquestframework</li>
-		<li>neronix17.asimov</li>
-		<li>q308744928.cadframework</li>
-		<li>neronix17.toolbox</li>
+		<li>zyro.ununlimited</li>
+		
+		
+		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
+			<li>superherogenesbase.mod</li>
+			<li>sarg.alphagenes</li>
+			<li>redmattis.betterprerequisites</li>
+		-->
+		
+		<!-- frameworks with semi-soon plans, put here so it's prepared
+			<li>smashphil.vehicleframework</li>
+		-->
+		
+		<!-- frameworks that useage is more long-term, so commented out 
+			<li>kaitorisenkou.bodywarper.framework</li>
+			<li>thesepeople.ritualattachableoutcomes</li>
+			<li>neronix17.asimov</li>
+			<li>q308744928.cadframework</li>
+		-->
 
 		<!-- misc mods -->
 		<li>chtech.devorder</li>
@@ -73,8 +81,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>edb.preparecarefully</li>
 
 		
-		<!-- frameworks I might, but probally won't, use. Still, might as well ensure correct order just in case -->
-		<li>jecrell.jecstools</li>
+<!-- frameworks that just need to be above my mods to prevent any chance of incompatibility -->		<li>jecrell.jecstools</li>
 		<li>unlimitedhugs.hugslib</li>
 		<li>erdelf.humanoidalienraces</li>
 		
