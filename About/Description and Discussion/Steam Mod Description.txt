@@ -14,6 +14,7 @@ Well: [list]
 
 Then, while there are many [i][url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Recommended Mods[/url][/i], a few of them are also soft (meaning they activate more content, but aren't needed) compatibilities:
 [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url] (very benificial in conjunction with some of my other mods)
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094]Tabula Rasa[/url]
 [/list]
 
@@ -32,9 +33,6 @@ A: Once again, lots of useful code, and it's very, very helpful. Without it, man
 
 Q: Okay, fair enough. So, why does it need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
 A: Once again, lots of very useful code. It allows for things like mod settings via XML, not coding, as well as much more complex, dynamic patches. Eventually, as I get better with it, it will easily decrease the complexity of patches in my mods.
-
-Q: Why exactly is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url] there?
-A: Well, I used to recommend a different mod, but this one has more features and is more robust. It does require you to manually enable it, but it has the ability to turn off Lethal Damage Threshold, which is highly recommended. (a future update will make settings default to those, and might remove the Unlimited requirment)
 
 Q: Did you recommend those mods in the "highly encouraged" area for similar resons?
 A: Wow, your getting good at this! Yes, I did.those mods, while the efect isn't enough to be worthy of a requirment, cause enough of a benifit that they are, in a way "pseudo-requriments". For more info (i'm still working on the title and text), see [url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Here[/url]
