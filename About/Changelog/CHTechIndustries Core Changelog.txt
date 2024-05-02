@@ -108,3 +108,7 @@ v2.0.7
 modified so about file has less extraneus parts, and made notes
 added a mention of un-un-limmited, and recommended it
 added un-un-limmited to order
+
+v2.0.8
+added in the code of un-un-limmited (with permission and credit)
+removed Tweaks Galore (will be a soft compat)
