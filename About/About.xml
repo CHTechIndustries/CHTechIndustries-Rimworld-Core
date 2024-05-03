@@ -56,6 +56,8 @@ Also, thank you to:
 		<li>neronix17.toolbox</li>
 		<li>neronix17.tweaksgalore</li>
 		
+		<!-- ultilitys that I think are supossed to go above. might be "supposed to go bellow" -->
+		<li>blockdude.scrollablegizmos</li>
 		
 		
 		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
@@ -93,5 +95,11 @@ Also, thank you to:
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
+		
+		<!-- redundent and can cause errors -->
+			<!-- similar code is included in this mod, so it could cause errors (unlikley), and is redundent (guarenteed) -->
+			<li>paragon.hanul.unlimitedarmor</li>
+			<li>grimm.unlimited</li>
+			
 	</incompatibleWith>
 </ModMetaData>
