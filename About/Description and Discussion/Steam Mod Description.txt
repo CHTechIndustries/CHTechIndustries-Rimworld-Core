@@ -30,7 +30,7 @@ A: At least for now, no-(ish). What I mean is that I'm not going to set up drast
 Q: Why does this mod need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony[/url]
 A: Harmony is a library with lots of useful, powerful, code. There is a reason most mods either require it, or require a framework that requires it. Even if I didin't need it, Vanilla Expanded Framework does, so either way you'll need it!
 
-Q: Okay, so why is Vanilla Expanded Framework required?
+Q: Okay, so why is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013]Vanilla Expanded Framework[/url] required?
 A: Once again, lots of useful code, and it's very, very helpful. Without it, many mods would be impossible. Not to mention, lots of my mods require mods that, you guessed it, requires Vanilla Expanded Framework!
 
 Q: Okay, fair enough. So, is that why it needs [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
