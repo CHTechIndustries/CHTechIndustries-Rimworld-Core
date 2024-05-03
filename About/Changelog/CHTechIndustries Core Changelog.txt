@@ -112,3 +112,7 @@ added un-un-limmited to order
 v2.0.8
 added in the code of un-un-limmited (with permission and credit)
 removed Tweaks Galore (will be a soft compat)
+update all lists
+altered about file to include credit to the autor of un-un-limmited
+altered description for same reason
+removed unecessary "do not upload" entry
