@@ -116,3 +116,6 @@ update all lists
 altered about file to include credit to the autor of un-un-limmited
 altered description for same reason
 removed unecessary "do not upload" entry
+fixed gramaticall issues in authors section
+found a way to make "authors" and "contributers" slightly seperate (multiple lines), so did that
+removed inacurate author
