@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>CHTechIndustries Core</name>
-	<author>CTH2004, Zyro, The Dynamic Trio</author>
+	<author>Primary Authors: CTH2004
+Contributers: Zyro</author>
 	<packageId>CHTech.core</packageId>
 	<supportedVersions>
 		<li>1.4</li>
