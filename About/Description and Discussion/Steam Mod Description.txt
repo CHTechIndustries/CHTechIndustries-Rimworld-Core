@@ -1,7 +1,9 @@
 A simple core for all mods by CHTechIndustries!
 Designed to do multiple things, including (but not limited to): [olist]
 [*]Improve utility mods, such as changeing the defaults of Tweaks Galore
-[*]small fixes/ tweaks of my own design
+[*]small fixes/ tweaks of my own design (or other contributers) including: [olist]
+[*]unlimmiting all stat limits, using code primarily derived from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3235289492]un-un-limmited[/url] by [url=https://steamcommunity.com/profiles/76561198036595402/myworkshopfiles/?appid=294100]Zyro[/url], with slow expansion on by me. if you just want a really good un-limmiting mod, use that one!
+[/olist]
 [*]Centralized core code for CHTechIndustries
 [*]Easy Guarentee that my mods are bellow frameworks that they might use (as this core is bellow those frameworks, and those mods bellow this core)
 [/olist]
@@ -31,11 +33,14 @@ A: Harmony is a library with lots of useful, powerful, code. There is a reason m
 Q: Okay, so why is Vanilla Expanded Framework required?
 A: Once again, lots of useful code, and it's very, very helpful. Without it, many mods would be impossible. Not to mention, lots of my mods require mods that, you guessed it, requires Vanilla Expanded Framework!
 
-Q: Okay, fair enough. So, why does it need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
-A: Once again, lots of very useful code. It allows for things like mod settings via XML, not coding, as well as much more complex, dynamic patches. Eventually, as I get better with it, it will easily decrease the complexity of patches in my mods.
+Q: Okay, fair enough. So, is that why it needs [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206]XML Extensions[/url]?
+A: Wow, you are getting really good at this! That is 100% correct, as CML Extensions allows for things like mod settings via XML, not just C#, as well as much more complex, dynamic patches. Eventually, as I get better with it, it will easily decrease the complexity of patches in my mods.
 
-Q: Did you recommend those mods in the "highly encouraged" area for similar resons?
-A: Wow, your getting good at this! Yes, I did.those mods, while the efect isn't enough to be worthy of a requirment, cause enough of a benifit that they are, in a way "pseudo-requriments". For more info (i'm still working on the title and text), see [url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Here[/url]
+Q: Okay, fair enough. But, what exactly do you mean by "Highly Recommended"?Did you recommend those mods in the "highly encouraged" area for similar resons?
+A: Well, some mods cause enough of a benifit in conjunction with my mod that they are, in a way "pseudo-requriments". For more info (i'm still working on the title and text), see [url=https://steamcommunity.com/workshop/filedetails/discussion/3097014712/4289187621815128945/]Here[/url]. Some of them even have soft compatibility with this core!
+
+Q: So, it's best if I activate all the "highly encouraged" mods?
+A: actually, no. a couple of them are directly incompatible, and are recommended because they are a good alternitive to a portion of my core. If you want an unlimmiter, why not just use a simpler one? So, most of those should be used in conjunction, but some straight up can't (it's marked as incompatible for my mod)
 
 Q: Why is this FAQ in the form of more like a conversation?
 A: Not sure, but who cares! Obviously you had no issue, as you got down to here!

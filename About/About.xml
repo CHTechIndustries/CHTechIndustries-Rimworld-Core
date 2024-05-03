@@ -56,9 +56,9 @@ Also, thank you to:
 		<li>neronix17.toolbox</li>
 		<li>neronix17.tweaksgalore</li>
 		
-		<!-- ultilitys that I think are supossed to go above. might be "supposed to go bellow" -->
-		<li>blockdude.scrollablegizmos</li>
-		
+		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
+			<li>blockdude.scrollablegizmos</li>
+		 -->
 		
 		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
 			<li>superherogenesbase.mod</li>

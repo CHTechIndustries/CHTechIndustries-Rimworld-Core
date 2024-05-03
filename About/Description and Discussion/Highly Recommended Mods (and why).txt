@@ -1,4 +1,4 @@
-This is a list of mods that work very well with this mod (my other mods might also work great with another group, which will be mentioned in that mod). Also, if the mod is bolded, that means I consider it a near-necesity for useage
+This is a list of mods that work very well with this mod (or just recommendations) (my other mods might also work great with another group, which will be mentioned in that mod). Also, if the mod is bolded, that means I consider it a near-necesity for useage
 
 [list]
 
@@ -19,7 +19,8 @@ this mod will let you know what mod added what, which is very, [i]very[/i] usefu
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=735106432]EdB Prepare Carefully[/url] by EdB
 it makes life a whole lot easier for when you just want to mess around, and not deal with things like "rules" and "balence" (:
 
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3235289492]Un-Un-Limited[/url] by Zyro, which completly removes all limits. Basically, what I'm doing with Tweaks Galore, but to the extreme. And, as the Tweaks Galore part is currently in development, you definitly should consider getting this mod as a way to bypass that!
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3235289492]Un-Un-Limited[/url] by Zyro, as a sort of "light" (and therefore less prone to breaking) version of the unlimmiting portion of this mod
+
 [/list]
 
 
