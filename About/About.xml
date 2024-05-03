@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>CHTechIndustries Core</name>
-	<author>Primary Authors: CTH2004</author>
-	<contributor>Zyro</contributor>
+	<author>Primary Authors: CTH2004
+Contributer: Zyro</author>
 	<packageId>CHTech.core</packageId>
 	<supportedVersions>
 		<li>1.4</li>
