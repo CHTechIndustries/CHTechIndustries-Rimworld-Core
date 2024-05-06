@@ -1,25 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<!-- <TabulaRasa.UpdateDef>
-		<defName>TweaksGalore_01012024</defName>
-		<date>2024/01/01</date>
+<!-- base (more info: https://github.com/Outpost-21/Tabula-Rasa/wiki/In-Game-Updates): 
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_"current date"</defName>
+		<date>"current date"</date>
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
-				<text></text>
+				<header>Header</header>
+				<text>text</text>
 			</li>
-		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/Outpost-21/Tweaks-Galore</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
