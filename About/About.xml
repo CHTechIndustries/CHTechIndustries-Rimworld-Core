@@ -55,10 +55,11 @@ Also, thank you to:
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
 		
-		<!-- frameworks that should be above this (soft compatibility/ ordering for compat -->
+		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
 		<li>ebsg.framework</li>
 		<li>neronix17.tweaksgalore</li>
 		<li>redmattis.betterprerequisites</li>
+		<li>pathfinding.framework</li>
 		
 		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
 			<li>blockdude.scrollablegizmos</li>
