@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4069 rev95</version>
+    <version>1.5.4085 rev545</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -9,14 +9,21 @@
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>taranchuk.moderrorchecker</li>
+        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
+        <li>hades.rimtest</li>
+        <li>carnysenpai.traitraritycolors</li>
+        <li>edb.preparecarefully</li>
+        <li>neronix17.toolbox</li>
         <li>neronix17.tweaksgalore</li>
-        <li>imranfish.xmlextensions</li>
-        <li>grimm.unlimited</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
         <li>hlx.gestaltengine</li>
         <li>hlx.vanometricgenerator</li>
         <li>chtech.ges</li>
+        <li>smashphil.xmlpatchhelper</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
