@@ -9,5 +9,6 @@
 		<li>1.5</li>
 		<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">1.5/Mods/VFE</li>
 		<li>Common</li>
+		<li>Common/Changelog</li>
 	</v1.5>
 </loadFolders>
