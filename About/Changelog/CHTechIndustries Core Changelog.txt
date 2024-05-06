@@ -122,7 +122,7 @@ made incompatible with those unlimiter mods, as they are redundent, and therefor
 
 v2.0.9
 made it load What's That Mod bellow this one
-added Tabula Rasa based change log
+added Tabula Rasa based change log (much, much harder than expected)
 made it require Tabula Rasa (sorry, there's a lot of features there)
 re-designed mod list system (in background)
 improved load order
