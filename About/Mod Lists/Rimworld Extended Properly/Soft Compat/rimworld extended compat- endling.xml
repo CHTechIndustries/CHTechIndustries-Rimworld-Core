@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4069 rev95</version>
+    <version>1.5.4085 rev545</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -13,20 +13,22 @@
         <li>taranchuk.moderrorchecker</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>hades.rimtest</li>
-        <li>co.uk.epicguru.whatsthatmod</li>
+        <li>carnysenpai.traitraritycolors</li>
         <li>edb.preparecarefully</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>ebsg.framework</li>
+        <li>pathfinding.framework</li>
         <li>neronix17.toolbox</li>
         <li>neronix17.tweaksgalore</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
+        <li>aelanna.endling</li>
         <li>morebiotechstylegenes.mod</li>
         <li>sarg.alphagenes</li>
         <li>ebsg.aio</li>
         <li>ebsg.archite</li>
-        <li>pathfinding.framework</li>
         <li>chtech.rimworldextended.main</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
         <li>smashphil.xmlpatchhelper</li>
     </activeMods>
     <knownExpansions>
