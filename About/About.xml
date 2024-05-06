@@ -42,7 +42,11 @@ Also, thank you to:
 			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
 		</li>
-
+		<li>
+			<packageId>neronix17.toolbox</packageId>
+			<displayName>Tabula Rasa</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>ludeon.rimworld</li>
@@ -53,8 +57,8 @@ Also, thank you to:
 		
 		<!-- frameworks that should be above this (soft compatibility/ ordering for compat -->
 		<li>ebsg.framework</li>
-		<li>neronix17.toolbox</li>
 		<li>neronix17.tweaksgalore</li>
+		<li>redmattis.betterprerequisites</li>
 		
 		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
 			<li>blockdude.scrollablegizmos</li>
@@ -63,7 +67,7 @@ Also, thank you to:
 		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
 			<li>superherogenesbase.mod</li>
 			<li>sarg.alphagenes</li>
-			<li>redmattis.betterprerequisites</li>
+			
 		-->
 		
 		<!-- frameworks with semi-soon plans, put here so it's prepared
@@ -83,10 +87,12 @@ Also, thank you to:
 		<li>edb.preparecarefully</li>
 
 		
-<!-- frameworks that just need to be above my mods to prevent any chance of incompatibility -->		<li>jecrell.jecstools</li>
-		<li>unlimitedhugs.hugslib</li>
+<!-- frameworks that need to be loaded above just due to their annoying habbit of causing incompatibilities if bellow mods. -->
+		<li>jecrell.jecstools</li>
 		<li>erdelf.humanoidalienraces</li>
-		
+<!-- might want to load before, not sure if should be defined, or be circumnstance-based
+		<li>unlimitedhugs.hugslib</li>
+-->
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
