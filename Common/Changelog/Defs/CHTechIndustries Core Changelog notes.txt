@@ -127,3 +127,4 @@ made it require Tabula Rasa (sorry, there's a lot of features there)
 re-designed mod list system (in background)
 improved load order
 slightly altered about file
+started using "releases" in github, so that will be the links from now on
