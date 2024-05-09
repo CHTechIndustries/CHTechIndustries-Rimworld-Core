@@ -8,7 +8,8 @@
 		<contentList>
 			<li>
 				<header>Header</header>
-				<text>text</text>
+				<text>text
+text2</text>
 			</li>
 		<links>
 			<li>
@@ -53,17 +54,17 @@ notes:
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 1.0.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20231126_2</defName>
-		<date>2024/11/26</date>
+		<date>2023/11/26</date>
 		<banner />
 		<contentList>
 			<li>
 				<header>Minor Format</header>
-				<text>Removed core as requirment \n I think that means I used to have my mod require "core", but it no longer does? not possitive, been a while</text>
+				<text>Removed core as requirment. I think that means I used to have my mod require "core", but it no longer does? not possitive, been a while</text>
 			</li>
+		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
@@ -77,16 +78,19 @@ notes:
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 1.0.2 -->
+<!-- version 1.0.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20231126_3</defName>
-		<date>2024/11/26</date>
+		<date>2023/11/26</date>
 		<banner />
 		<contentList>
 			<li>
 				<header>Minor Format</header>
-				<text>Put changelog in /n edited publisher+ XML /n corrected location of changelog</text>
+				<text>Put changelog in
+edited publisher+ XML
+corrected location of changelog</text>
 			</li>
+		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
@@ -100,5 +104,159 @@ notes:
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
+<!-- version 1.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20231127</defName>
+		<date>2023/11/27</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>DLC's</header>
+				<text>Removed Ideology, Biotech, and Royalty as reqruiments. Basically "offloaded" them to where my mods that need those DLC's will load them, and the core will dynamicaly utilize them</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>	
+<!-- version 1.1.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20231202_1</defName>
+		<date>2023/12/02</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Background</header>
+				<text>Made the mod properly enforce mod orders
+Added in rimpy lists of what I'm using to test my mods, so anyone can access them if desired, and as a note for myself</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	<!-- version 1.1.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20231202_2</defName>
+		<date>2023/12/02</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Pre-Reqs</header>
+				<text>added XML Extensions as a mod reqreuiment</text>
+			</li>
+			<li>
+				<header>About File</header>
+				<text>removed SuperEngine and DopeUnicorn909 as "authors", as they haven't done anything, and had been put there as I figured they will eventually. WIll put them back in if needed
+fixed about file to include a link to github wiki (I think)
+fixed mod version in the file</text>
+			</li>
+			<li>
+				<header>Mod Page</header>
+				<text>dramatically improved steam description</text>
+			</li>
+			<li>
+				<header>background(mod folder)</header>
+				<text>improved folder structure</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+
+<!-- version 1.2.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20240311_1</defName>
+		<date>2024/03/11</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Pre-Reqs</header>
+				<text>added XML Extensions as a mod reqreuiment</text>
+			</li>
+			<li>
+				<header>About File</header>
+				<text>removed SuperEngine and DopeUnicorn909 as "authors", as they haven't done anything, and had been put there as I figured they will eventually. WIll put them back in if needed
+fixed about file to include a link to github wiki (I think)
+fixed mod version in the file</text>
+			</li>
+			<li>
+				<header>Mod Page</header>
+				<text>dramatically improved steam description</text>
+			</li>
+			<li>
+				<header>background(mod folder)</header>
+				<text>improved folder structure</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.2.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20240311_2</defName>
+		<date>2024/03/11</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Minor Fix</header>
+				<text>Added a folder that should make future updates easier, should have no effect on ya'll but, who knows
+fixed the rimpy lists
+published it correctly using Publisher Plush, as some genius (not going to name names CTH2004) forgot to check if it was enabled
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+
+
 </Defs>
