@@ -544,4 +544,32 @@ started using "releases" in github</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- version 2.0.10 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20240516</defName>
+		<date>2024/05/16</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 2.0.10</header>
+				<text>Slightly altered folder structure for better changelog posistioning</text>
+			</li>
+			<li>
+				<header>Soon</header>
+				<text>there will be a delay before the description changes to match some of the alterations from 2.0.9. The description should be adjusted within 2 weeks (about)</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>

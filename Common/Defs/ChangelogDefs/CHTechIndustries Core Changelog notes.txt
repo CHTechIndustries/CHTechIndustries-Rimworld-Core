@@ -129,3 +129,6 @@ improved load order
 slightly altered about file
 started using "releases" in github, so that will be the links from now on
 due to how I don't fully remember the logs, and some issues in my logs (inconsistancies), everything before this (2.0.9) isn't 100% correct with the in-game log, as I had to guestimate some (especially between 1.1.0 and 2.0.0)
+
+v2.0.10
+Slightly altered folder structure for better changelog posistioning
