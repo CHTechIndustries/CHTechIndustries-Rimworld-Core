@@ -9,7 +9,7 @@ Contributer: Zyro</author>
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.10</modVersion>
+	<modVersion>2.1.0</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -17,10 +17,11 @@ This mod is designed for a few simple things:
 2. simple patche's for rimworld (credit to Zyro for them)
 3. ensure specific load orders, such as makeing sure a core always loads above my mods, without manual specification
 
-Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
+Next, possibly the most important part, Credits:
+1. Zyro, for Un-Un-Limmited, which is integrated into this mod. if you only want that patch, go check out his mod!
 
-Also, thank you to:
-	Zyro, for Un-Un-Limmited, which is integrated into this mod. if you only want that patch, go check out his mod!
+
+Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
 	</description>
 	<modDependencies>
 		<li>
