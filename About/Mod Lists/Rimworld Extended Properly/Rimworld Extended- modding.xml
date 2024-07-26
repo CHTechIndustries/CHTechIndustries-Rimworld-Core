@@ -4,12 +4,14 @@
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
+        <li>bs.betterlog</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>redmattis.betterprerequisites</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>ordpus.logafterdeferror</li>
         <li>taranchuk.moderrorchecker</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>hades.rimtest</li>
