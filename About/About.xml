@@ -60,6 +60,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>neronix17.tweaksgalore</li>
 		<li>redmattis.betterprerequisites</li>
 		<li>pathfinding.framework</li>
+		<li>smashphil.vehicleframework</li>
 		
 		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
 			<li>blockdude.scrollablegizmos</li>
@@ -72,7 +73,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		-->
 		
 		<!-- frameworks with semi-soon plans, put here so it's prepared
-			<li>smashphil.vehicleframework</li>
+			
 		-->
 		
 		<!-- frameworks that useage is more long-term, so commented out 
