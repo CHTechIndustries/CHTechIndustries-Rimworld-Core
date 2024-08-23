@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4085 rev545</version>
+    <version>1.5.4104 rev435</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -11,10 +11,13 @@
         <li>unlimitedhugs.hugslib</li>
         <li>neronix17.toolbox</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>smashphil.vehicleframework</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
+        <li>kentington.saveourship2</li>
+        <li>chtech.eos</li>
         <li>hlx.gestaltengine</li>
-        <li>hlx.vanometricgenerator</li>
+        <li>tongonto.mechcaravans</li>
         <li>chtech.ges</li>
     </activeMods>
     <knownExpansions>
