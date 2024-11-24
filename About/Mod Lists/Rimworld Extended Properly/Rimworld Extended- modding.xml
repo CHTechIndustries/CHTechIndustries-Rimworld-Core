@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4104 rev435</version>
+    <version>1.5.4243 rev947</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -28,6 +28,7 @@
         <li>sarg.alphagenes</li>
         <li>ebsg.aio</li>
         <li>ebsg.archite</li>
+        <li>ebs.abilities</li>
         <li>chtech.rimworldextended.main</li>
         <li>co.uk.epicguru.whatsthatmod</li>
         <li>smashphil.xmlpatchhelper</li>
