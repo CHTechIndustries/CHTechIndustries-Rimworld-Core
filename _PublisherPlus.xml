@@ -5,7 +5,6 @@
 	<exclude>.github</exclude>
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>About\Description and Discussion\To Be Added</exclude>
-	<exclude>SECURITY.md</exclude>
 	<exclude>Textures\.baseIcons</exclude>
 	<exclude>.branchLog</exclude>
 	<exclude>About\Incomplete</exclude>
