@@ -572,4 +572,27 @@ started using "releases" in github</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20241206"</defName>
+		<date>2024/12/06</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Changes</header>
+				<text>just a very simple update. I deleted unecessary files, and removed a few uneeded "load-before's"</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
