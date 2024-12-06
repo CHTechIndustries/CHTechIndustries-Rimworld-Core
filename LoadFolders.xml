@@ -12,6 +12,5 @@
 		
 		<!-- version specific -->
 		<li>1.5</li>
-		<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">1.5/Mods/VFE</li>
 	</v1.5>
 </loadFolders>
