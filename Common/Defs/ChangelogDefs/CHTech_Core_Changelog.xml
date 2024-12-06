@@ -578,8 +578,10 @@ started using "releases" in github</text>
 		<banner />
 		<contentList>
 			<li>
-				<header>Changes</header>
-				<text>just a very simple update. I deleted unecessary files, and removed a few uneeded "load-before's"</text>
+				<header>Version 2.0.11</header>
+				<text>just a very simple update. I deleted unecessary files, and removed a few uneeded "load-before's"
+also fixed a versioning error. Apparently I transposed a number, making the about file have the wrong version. Oops...
+				</text>
 			</li>
 		</contentList>
 		<links>
