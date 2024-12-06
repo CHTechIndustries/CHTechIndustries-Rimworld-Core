@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4243 rev947</version>
+    <version>1.5.4297 rev1078</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -21,7 +21,6 @@
         <li>edb.preparecarefully</li>
         <li>pathfinding.framework</li>
         <li>neronix17.toolbox</li>
-        <li>neronix17.tweaksgalore</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
         <li>morebiotechstylegenes.mod</li>
