@@ -1,3 +1,0 @@
-"../../Assemblies"
-
-takes from source/name into Assemblies

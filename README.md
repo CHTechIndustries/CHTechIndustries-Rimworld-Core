@@ -1,2 +1,2 @@
 # CHTechIndustries-Core
- A core for all rimworld mods made by CHTech Industries
+ A core for all rimworld mods made by CHTech Industries. Simple as that
