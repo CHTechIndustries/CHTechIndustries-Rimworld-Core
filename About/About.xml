@@ -90,13 +90,19 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 <!-- might want to load before, not sure if should be defined, or be circumnstance-based
 		<li>unlimitedhugs.hugslib</li>
 -->
+
+	<!-- mods to aid in developing / publishing -->
 	</loadAfter>
 	<loadBefore>
 		<!-- core as soft dependency -->
 		<li>chtech.opThings.Pack</li>
-		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
+		
+		<!-- proper ordering (meaning these mods are supposed to be here for whatever reason. Basicly, enforceing that mods order) -->
 		<li>co.uk.epicguru.whatsthatmod</li>
+		
+		<!-- mods to aid publishing / developing -->
+			<li>gege.exportedxenotypestoragemodfolder</li>
+			<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
