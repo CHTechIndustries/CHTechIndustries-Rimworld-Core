@@ -92,8 +92,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 -->
 
 	<!-- mods to aid in developing -->
-		<li>gege.exportedxenotypestoragemodfolder</li>
-	<!-- -->
+	
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
@@ -101,6 +100,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		
 		<!-- mods to aid publishing -->
 		<li>gege.customxenotypeexportertoolreupload</li>
+		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 	</loadBefore>
