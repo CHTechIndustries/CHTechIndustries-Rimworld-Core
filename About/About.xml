@@ -96,6 +96,8 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 	<loadBefore>
 		<!-- core as soft dependency -->
 		<li>chtech.opThings.Pack</li>
+		
+		<!-- proper ordering (meaning these mods are supposed to be here for whatever reason. Basicly, enforceing that mods order) -->
 		<li>co.uk.epicguru.whatsthatmod</li>
 		
 		<!-- mods to aid publishing / developing -->
