@@ -102,9 +102,9 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>co.uk.epicguru.whatsthatmod</li>
 		
 		<!-- mods to aid publishing / developing -->
-		<li>smashphil.xmlpatchhelper</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 			<li>gege.exportedxenotypestoragemodfolder</li>
+			<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
