@@ -95,9 +95,11 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>gege.exportedxenotypestoragemodfolder</li>
 	</loadAfter>
 	<loadBefore>	
-		<li>chtech.opThings.Pack</li> <!-- soft compat with the core -->
+		<!-- core as soft dependency -->
+		<li>chtech.opThings.Pack</li>
+		<!-- proper ordering (meaning these mods are supposed to be here for whatever reason. Basicly, enforceing that mods order) -->
 		<li>co.uk.epicguru.whatsthatmod</li>
-
+		
 		<!-- mods to aid publishing / developing -->
 		<li>smashphil.xmlpatchhelper</li>
 		<li>gege.customxenotypeexportertoolreupload</li>
