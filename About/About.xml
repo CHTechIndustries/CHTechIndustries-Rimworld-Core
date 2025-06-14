@@ -94,16 +94,17 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 -->
 
 	<!-- mods to aid in developing / publishing -->
-			<li>gege.exportedxenotypestoragemodfolder</li>
+		<li>gege.customxenotypeexportertoolreupload</li>
+			
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
 		<li>co.uk.epicguru.whatsthatmod</li>
 		
 		<!-- mods to aid publishing / developing -->
-		<li>gege.customxenotypeexportertoolreupload</li>
-		<li>smashphil.xmlpatchhelper</li>
-		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
+			<li>gege.exportedxenotypestoragemodfolder</li>
+			<li>smashphil.xmlpatchhelper</li>
+			<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
