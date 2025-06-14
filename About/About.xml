@@ -90,7 +90,9 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 <!-- might want to load before, not sure if should be defined, or be circumnstance-based
 		<li>unlimitedhugs.hugslib</li>
 -->
-	<li>gege.exportedxenotypestoragemodfolder</li>
+
+	<!-- mods to aid in developing -->
+		<li>gege.exportedxenotypestoragemodfolder</li>
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
