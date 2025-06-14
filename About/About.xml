@@ -79,9 +79,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		-->
 
 		<!-- misc mods -->
-		<!-- chtech.devorder
-			this will contain some auto-ordering that will just help organize my modlist so I can see what I have when developing my mods
-		-->
+		<li>chtech.devorder</li>
 		<li>void.charactereditor</li>
 		<li>edb.preparecarefully</li>
 
