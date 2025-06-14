@@ -94,10 +94,11 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 -->
 	</loadAfter>
 	<loadBefore>	
-		<li>chtech.opThings.Pack</li> <!-- soft compat with the core -->
 		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
+		<li>chtech.opThings.Pack</li>
 		<li>co.uk.epicguru.whatsthatmod</li>
+		
+		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
