@@ -94,7 +94,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 -->
 
 	<!-- mods to aid in developing / publishing -->
-				<li>gege.customxenotypeexportertoolreupload</li>
+		<li>gege.customxenotypeexportertoolreupload</li>
 			
 	</loadAfter>
 	<loadBefore>	
