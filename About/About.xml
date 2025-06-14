@@ -93,16 +93,20 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>unlimitedhugs.hugslib</li>
 -->
 
-	<!-- mods to aid in developing -->
 	
-			<li>gege.exportedxenotypestoragemodfolder</li>
 
+
+
+	<!-- mods to aid in developing / publishing -->
+			<li>gege.exportedxenotypestoragemodfolder</li>
+	
+	
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
 		<li>co.uk.epicguru.whatsthatmod</li>
 		
-		<!-- mods to aid publishing -->
+		<!-- mods to aid publishing / developing -->
 		<li>gege.customxenotypeexportertoolreupload</li>
 		<li>smashphil.xmlpatchhelper</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
