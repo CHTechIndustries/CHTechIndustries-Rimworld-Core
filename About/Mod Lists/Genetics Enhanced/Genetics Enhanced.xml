@@ -4,21 +4,17 @@
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
+        <li>edb.preparecarefully</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
-        <li>unlimitedhugs.hugslib</li>
-        <li>neronix17.toolbox</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
-        <li>smashphil.vehicleframework</li>
-        <li>imranfish.xmlextensions</li>
-        <li>chtech.core</li>
-        <li>kentington.saveourship2</li>
-        <li>chtech.eos</li>
-        <li>hlx.gestaltengine</li>
-        <li>tongonto.mechcaravans</li>
-        <li>chtech.ges</li>
+        <li>vanillaexpanded.vfea</li>
+        <li>sarg.alphaanimals</li>
+        <li>vanillaexpanded.vgeneticse</li>
+        <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>

@@ -1,15 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>CHTechIndustries Core</name>
-	<author>Primary Authors: CTH2004
-Contributer: Zyro</author>
+	<author>CTH2004</author>
 	<packageId>CHTech.core</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.1.0</modVersion>
+	<modVersion>2.0.11</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -50,17 +49,13 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>ludeon.rimworld</li>
-		<li>ludeon.rimworld.royalty</li>
-		<li>ludeon.rimworld.ideology</li>
-		<li>ludeon.rimworld.biotech</li>
-		<li>ludeon.rimworld.anomaly</li>
 		
 		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
 		<li>ebsg.framework</li>
 		<li>neronix17.tweaksgalore</li>
 		<li>redmattis.betterprerequisites</li>
 		<li>pathfinding.framework</li>
+		<li>smashphil.vehicleframework</li>
 		
 		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
 			<li>blockdude.scrollablegizmos</li>
@@ -73,7 +68,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		-->
 		
 		<!-- frameworks with semi-soon plans, put here so it's prepared
-			<li>smashphil.vehicleframework</li>
+			
 		-->
 		
 		<!-- frameworks that useage is more long-term, so commented out 
@@ -95,12 +90,19 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 <!-- might want to load before, not sure if should be defined, or be circumnstance-based
 		<li>unlimitedhugs.hugslib</li>
 -->
+
+	<!-- mods to aid in developing / publishing -->
 	</loadAfter>
-	<loadBefore>	
+	<loadBefore>
+		<!-- core as soft dependency -->
 		<li>chtech.opThings.Pack</li>
-		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
+		
+		<!-- proper ordering (meaning these mods are supposed to be here for whatever reason. Basicly, enforceing that mods order) -->
 		<li>co.uk.epicguru.whatsthatmod</li>
+		
+		<!-- mods to aid publishing / developing -->
+			<li>gege.exportedxenotypestoragemodfolder</li>
+			<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->

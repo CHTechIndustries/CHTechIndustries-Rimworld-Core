@@ -132,3 +132,7 @@ due to how I don't fully remember the logs, and some issues in my logs (inconsis
 
 v2.0.10
 Slightly altered folder structure for better changelog posistioning
+
+v2.0.11
+remove uneeded files
+decrease total "load before"'s
