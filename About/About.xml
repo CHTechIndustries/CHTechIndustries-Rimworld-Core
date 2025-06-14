@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>CHTechIndustries Core</name>
-	<author>Primary Authors: CTH2004, The Dynamic Trio
-Contributers: Zyro</author>
+	<author>Primary Authors: CTH2004
+Contributer: Zyro</author>
 	<packageId>CHTech.core</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>2.0.8</modVersion>
+	<modVersion>2.1.0</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -17,10 +17,11 @@ This mod is designed for a few simple things:
 2. simple patche's for rimworld (credit to Zyro for them)
 3. ensure specific load orders, such as makeing sure a core always loads above my mods, without manual specification
 
-Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
+Next, possibly the most important part, Credits:
+1. Zyro, for Un-Un-Limmited, which is integrated into this mod. if you only want that patch, go check out his mod!
 
-Also, thank you to:
-	Zyro, for Un-Un-Limmited, which is integrated into this mod. if you only want that patch, go check out his mod!
+
+Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recommended, especially if you use any of my other mods
 	</description>
 	<modDependencies>
 		<li>
@@ -42,7 +43,11 @@ Also, thank you to:
 			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
 		</li>
-
+		<li>
+			<packageId>neronix17.toolbox</packageId>
+			<displayName>Tabula Rasa</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>ludeon.rimworld</li>
@@ -51,17 +56,20 @@ Also, thank you to:
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
 		
-		<!-- frameworks that should be above this (soft compatibility/ ordering for compat -->
+		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
 		<li>ebsg.framework</li>
-		<li>neronix17.toolbox</li>
 		<li>neronix17.tweaksgalore</li>
+		<li>redmattis.betterprerequisites</li>
+		<li>pathfinding.framework</li>
 		
-		
+		<!-- ultilitys that I suspect are supossed to go above, here to easily have said feature added (enforcing said order)
+			<li>blockdude.scrollablegizmos</li>
+		 -->
 		
 		<!-- frameworks in use with other of my mods, unknown if they should be above my core, or just above the specified mod
 			<li>superherogenesbase.mod</li>
 			<li>sarg.alphagenes</li>
-			<li>redmattis.betterprerequisites</li>
+			
 		-->
 		
 		<!-- frameworks with semi-soon plans, put here so it's prepared
@@ -81,17 +89,26 @@ Also, thank you to:
 		<li>edb.preparecarefully</li>
 
 		
-<!-- frameworks that just need to be above my mods to prevent any chance of incompatibility -->		<li>jecrell.jecstools</li>
-		<li>unlimitedhugs.hugslib</li>
+<!-- frameworks that need to be loaded above just due to their annoying habbit of causing incompatibilities if bellow mods. -->
+		<li>jecrell.jecstools</li>
 		<li>erdelf.humanoidalienraces</li>
-		
+<!-- might want to load before, not sure if should be defined, or be circumnstance-based
+		<li>unlimitedhugs.hugslib</li>
+-->
 	</loadAfter>
 	<loadBefore>	
 		<li>chtech.opThings.Pack</li>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
+		
+		<!-- redundent and can cause errors -->
+			<!-- similar code is included in this mod, so it could cause errors (unlikley), and is redundent (guarenteed) -->
+			<li>paragon.hanul.unlimitedarmor</li>
+			<li>grimm.unlimited</li>
+			
 	</incompatibleWith>
 </ModMetaData>
