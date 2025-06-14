@@ -102,6 +102,8 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 
 		<!-- mods to aid publishing / developing -->
 		<li>smashphil.xmlpatchhelper</li>
+		<li>gege.customxenotypeexportertoolreupload</li>
+		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
