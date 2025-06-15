@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4297 rev1078</version>
+    <version>1.5.4409 rev1118</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -16,6 +16,7 @@
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>hades.rimtest</li>
         <li>carnysenpai.traitraritycolors</li>
+        <li>redmattis.bettergeneinheritance</li>
         <li>void.charactereditor</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>ebsg.framework</li>
@@ -24,16 +25,16 @@
         <li>neronix17.tweaksgalore</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
-        <li>morebiotechstylegenes.mod</li>
         <li>sarg.alphagenes</li>
         <li>ebsg.aio</li>
+        <li>morebiotechstylegenes.mod</li>
         <li>ebsg.archite</li>
         <li>ebs.abilities</li>
         <li>chtech.rimworldextended.main</li>
-        <li>co.uk.epicguru.whatsthatmod</li>
         <li>smashphil.xmlpatchhelper</li>
         <li>kenx00x.xenotypeandideologybuttonstitlescreen15update</li>
         <li>gege.customxenotypeexportertoolreupload</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
