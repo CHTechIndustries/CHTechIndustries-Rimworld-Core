@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4085 rev545</version>
+    <version>1.5.4297 rev1078</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -12,7 +12,6 @@
         <li>unlimitedhugs.hugslib</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>ebsg.framework</li>
-        <li>pathfinding.framework</li>
         <li>neronix17.toolbox</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
@@ -20,6 +19,7 @@
         <li>sarg.alphagenes</li>
         <li>ebsg.aio</li>
         <li>ebsg.archite</li>
+        <li>ebs.abilities</li>
         <li>chtech.rimworldextended.main</li>
     </activeMods>
     <knownExpansions>
