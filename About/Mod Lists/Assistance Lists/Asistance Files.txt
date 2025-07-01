@@ -8,3 +8,4 @@ remove v4
 remove v5 (outdated)
 remove v6 (outdated
 remove v7 (extraneous)
+merge v8
