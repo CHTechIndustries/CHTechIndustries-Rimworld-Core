@@ -597,4 +597,56 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_2025071"</defName>
+		<date>2025/07/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 2.0.12</header>
+				<text>just a very simple update. I modified the contents of a few mod list files to make modding easier
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v2.0.12</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	<!-- version 3.0.0 -->
+	</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_2025071_1"</defName>
+		<date>2025/07/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 3.0.0</header>
+				<text>some alterations to hopefully make it compatible with rimworld 1.6
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v2.0.12</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
