@@ -2,6 +2,7 @@
 <ModsConfigData>
     <version>1.5.4409 rev1118</version>
     <activeMods>
+        <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
         <li>bs.betterlog</li>
