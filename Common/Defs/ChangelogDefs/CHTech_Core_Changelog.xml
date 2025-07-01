@@ -705,4 +705,32 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+				<!-- version 3.0.0-c -->
+	</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_2025071_4"</defName>
+		<date>2025/07/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 3.0.0-c</header>
+				<text>found the issue, and fixed it. Took 3 times. That's why we have pre-releases!
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v3.0.0-c</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
