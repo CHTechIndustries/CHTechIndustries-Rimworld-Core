@@ -7,3 +7,4 @@ remove v3 (identical to v2)
 remove v4
 remove v5 (outdated)
 remove v6 (outdated
+remove v7 (extraneous)
