@@ -1,1 +1,0 @@
-this will be for tools such as the "steam description length checker"
