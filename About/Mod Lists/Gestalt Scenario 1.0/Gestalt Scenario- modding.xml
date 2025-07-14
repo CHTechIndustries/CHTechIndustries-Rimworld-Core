@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4243 rev947</version>
+    <version>1.5.4409 rev1118</version>
     <activeMods>
+        <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
         <li>bs.betterlog</li>
@@ -12,24 +13,28 @@
         <li>unlimitedhugs.hugslib</li>
         <li>ordpus.logafterdeferror</li>
         <li>taranchuk.moderrorchecker</li>
-        <li>isorex.pawneditor</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
-        <li>ratys.rtsolarflareshield</li>
         <li>hades.rimtest</li>
         <li>carnysenpai.traitraritycolors</li>
+        <li>void.charactereditor</li>
+        <li>edb.preparecarefully</li>
         <li>neronix17.toolbox</li>
+        <li>neronix17.tweaksgalore</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>smashphil.vehicleframework</li>
         <li>imranfish.xmlextensions</li>
         <li>chtech.core</li>
         <li>kentington.saveourship2</li>
-        <li>kentington.saveourshipck</li>
+        <li>vanillaexpanded.vchemfuele</li>
         <li>chtech.ems</li>
-        <li>hlx.gestaltengine</li>
         <li>tongonto.mechcaravans</li>
+        <li>ratys.rtsolarflareshield</li>
+        <li>mlie.reinforcedmechanoid2</li>
         <li>chtech.ges</li>
         <li>co.uk.epicguru.whatsthatmod</li>
         <li>smashphil.xmlpatchhelper</li>
+        <li>kenx00x.xenotypeandideologybuttonstitlescreen15update</li>
+        <li>gege.customxenotypeexportertoolreupload</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
