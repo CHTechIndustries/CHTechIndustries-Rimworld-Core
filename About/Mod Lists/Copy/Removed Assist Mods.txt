@@ -1,5 +1,0 @@
-prepatcher
-betterlog
-log after def error
-rimtest
-xenotype and ideology title screen
