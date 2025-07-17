@@ -57,7 +57,14 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 	</modDependencies>
 	<loadAfter>
 		
-		<!-- all DLC's -->
+		<!-- all DLC's -->		
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
+		<li>ludeon.rimworld.odyssey</li>
+		
 		
 		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
 		<li>ebsg.framework</li>
