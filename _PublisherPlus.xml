@@ -9,5 +9,6 @@
 	<exclude>.branchLog</exclude>
 	<exclude>About\Incomplete</exclude>
 	<exclude>PersonalLinks</exclude>
+	<exclude>About\Enhancment Info\Old Refference Lists</exclude>
   </Excluded>
 </Configuration>
