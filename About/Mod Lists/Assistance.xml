@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4409 rev1118</version>
+    <version>1.6.4523 rev1053</version>
     <activeMods>
         <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
@@ -15,15 +15,16 @@
         <li>edb.preparecarefully</li>
         <li>ordpus.logafterdeferror</li>
         <li>taranchuk.moderrorchecker</li>
+        <li>ludeon.rimworld.odyssey</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>hades.rimtest</li>
         <li>neronix17.toolbox</li>
         <li>carnysenpai.traitraritycolors</li>
         <li>neronix17.tweaksgalore</li>
-        <li>co.uk.epicguru.whatsthatmod</li>
         <li>smashphil.xmlpatchhelper</li>
         <li>kenx00x.xenotypeandideologybuttonstitlescreen15update</li>
         <li>gege.customxenotypeexportertoolreupload</li>
+        <li>co.uk.epicguru.whatsthatmod</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
@@ -31,5 +32,6 @@
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
+        <li>ludeon.rimworld.odyssey</li>
     </knownExpansions>
 </ModsConfigData>
