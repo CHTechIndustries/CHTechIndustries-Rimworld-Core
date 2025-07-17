@@ -9,7 +9,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>3.0.1</modVersion>
+	<modVersion>3.0.2</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -57,6 +57,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 	</modDependencies>
 	<loadAfter>
 		
+		<!-- all DLC's -->		
 		<li>ludeon.rimworld</li>
 		<li>ludeon.rimworld.royalty</li>
 		<li>ludeon.rimworld.ideology</li>
