@@ -56,7 +56,6 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		</li>
 	</modDependencies>
 	<loadAfter>
-		
 		<!-- all DLC's -->		
 		<li>ludeon.rimworld</li>
 		<li>ludeon.rimworld.royalty</li>
