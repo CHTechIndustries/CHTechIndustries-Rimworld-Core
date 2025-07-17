@@ -9,7 +9,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>3.0.0</modVersion>
+	<modVersion>3.0.2</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -30,12 +30,12 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
-		<li>
+	<!--	<li>
 			<packageId>zetrith.prepatcher</packageId>
 			<displayName>Prepatcher</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2934420800</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Zetrith/Prepatcher</downloadUrl>
-		</li>
+		</li> -->
 
 		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
@@ -56,6 +56,14 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<!-- all DLC's -->		
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
+		<li>ludeon.rimworld.odyssey</li>
+		
 		
 		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
 		<li>ebsg.framework</li>
