@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.6.4523 rev1053</version>
+    <version>1.6.4528 rev1222</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -12,14 +12,14 @@
         <li>redmattis.betterprerequisites</li>
         <li>unlimitedhugs.hugslib</li>
         <li>taranchuk.moderrorchecker</li>
+        <li>mlie.noversionwarning</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>carnysenpai.traitraritycolors</li>
-        <li>jecrell.jecstools</li>
-        <li>torann.arimworldofmagic</li>
         <li>redmattis.bettergeneinheritance</li>
         <li>void.charactereditor</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>ebsg.framework</li>
+        <li>jecrell.jecstools</li>
         <li>edb.preparecarefully</li>
         <li>neronix17.toolbox</li>
         <li>neronix17.tweaksgalore</li>
@@ -30,6 +30,9 @@
         <li>morebiotechstylegenes.mod</li>
         <li>ebsg.archite</li>
         <li>ebs.abilities</li>
+        <li>zal.jecsliterwom</li>
+        <li>torann.arimworldofmagic</li>
+        <li>kure.arom</li>
         <li>chtech.rimworldextended.main</li>
         <li>smashphil.xmlpatchhelper</li>
         <li>gege.customxenotypeexportertoolreupload</li>
