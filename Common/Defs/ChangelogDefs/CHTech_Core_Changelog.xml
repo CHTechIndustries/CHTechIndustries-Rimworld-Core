@@ -649,7 +649,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<!-- version 3.0.0-a
+		<!-- version 3.0.0-a -->
 	</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
@@ -677,7 +677,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-			<!-- version 3.0.0-b
+			<!-- version 3.0.0-b -->
 	</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
@@ -705,7 +705,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-				<!-- version 3.0.0-c
+				<!-- version 3.0.0-c -->
 	</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
@@ -732,7 +732,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef> -->
+	</TabulaRasa.UpdateDef>
 					
 					
 	<!-- version 3.0.1 -->
@@ -747,7 +747,6 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			<li>
 				<header>Version 3.0.1</header>
 				<text>found the issue, which turns out to have been nothing more than an extra "/"... fixed.
-Also commented out the changelog entries for the "3.0.0-a",b, and c
 				</text>
 			</li>
 		</contentList>
