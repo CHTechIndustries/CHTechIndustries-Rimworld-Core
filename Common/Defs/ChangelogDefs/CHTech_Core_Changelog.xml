@@ -156,7 +156,7 @@ Added in rimpy lists of what I'm using to test my mods, so anyone can access the
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 1.1.2 -->
+<!-- version 1.1.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20231202_2</defName>
 		<date>2023/12/02</date>
@@ -194,7 +194,6 @@ fixed mod version in the file</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 1.2.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240311_1</defName>
