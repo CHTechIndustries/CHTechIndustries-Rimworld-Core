@@ -156,7 +156,7 @@ Added in rimpy lists of what I'm using to test my mods, so anyone can access the
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 1.1.2 -->
+<!-- version 1.1.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20231202_2</defName>
 		<date>2023/12/02</date>
@@ -194,7 +194,6 @@ fixed mod version in the file</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 1.2.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240311_1</defName>
@@ -286,7 +285,6 @@ changed the ID, which could easily break things	</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 2.0.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_1</defName>
@@ -315,7 +313,6 @@ started moveing some things around in the background
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 2.0.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_2</defName>
@@ -344,7 +341,6 @@ remembered to update changelog</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 2.0.3 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_3</defName>
@@ -572,7 +568,8 @@ started using "releases" in github</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+<!-- Version 2.0.11 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20241206"</defName>
 		<date>2024/12/06</date>
 		<banner />
@@ -597,8 +594,8 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+<!-- 2.0.12 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071"</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -621,11 +618,10 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	<!-- version 3.0.0 -->
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	
+<!-- version 3.0.0 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_1"</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -649,10 +645,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<!-- version 3.0.0-a
-	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
+<!-- version 3.0.0-a
 		<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_2"</defName>
 		<date>2025/07/01</date>
@@ -678,9 +671,6 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 		</links>
 	</TabulaRasa.UpdateDef>
 			<!-- version 3.0.0-b
-	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_3"</defName>
 		<date>2025/07/01</date>
@@ -707,8 +697,6 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 	</TabulaRasa.UpdateDef>
 				<!-- version 3.0.0-c
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_4"</defName>
 		<date>2025/07/01</date>
@@ -732,14 +720,10 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef> -->
-					
-					
-	<!-- version 3.0.1 -->
-	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	</TabulaRasa.UpdateDef> -->			
+
+<!-- version 3.0.1 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_5"</defName>
 		<date>2025/07/01</date>
 		<banner />
