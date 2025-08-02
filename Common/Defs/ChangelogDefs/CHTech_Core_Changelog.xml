@@ -260,7 +260,6 @@ published it correctly using Publisher Plush, as some genius (not going to name 
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 2.0.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240324</defName>
@@ -286,7 +285,6 @@ changed the ID, which could easily break things	</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 2.0.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_1</defName>
@@ -314,8 +312,7 @@ started moveing some things around in the background
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef>
-	
+	</TabulaRasa.UpdateDef>	
 <!-- version 2.0.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_2</defName>
@@ -344,7 +341,6 @@ remembered to update changelog</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 2.0.3 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_3</defName>
@@ -572,7 +568,7 @@ started using "releases" in github</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20241206"</defName>
 		<date>2024/12/06</date>
 		<banner />
@@ -597,8 +593,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071"</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -623,7 +618,6 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 		</links>
 	<!-- version 3.0.0 -->
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071_1"</defName>
