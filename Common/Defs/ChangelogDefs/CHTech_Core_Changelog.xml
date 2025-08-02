@@ -748,4 +748,29 @@ Also commented out the changelog entries for the "3.0.0-a",b, and c
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- version 3.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_2025082"</defName>
+		<date>2025/08/02</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 3.1.0</header>
+				<text>modified the changelog so it doesn't have more opening than closeing def's. I think. It's possible I lost track, but I don't think so.
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v3.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
