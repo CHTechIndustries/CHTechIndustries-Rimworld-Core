@@ -285,7 +285,6 @@ changed the ID, which could easily break things	</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-
 <!-- version 2.0.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_1</defName>
@@ -314,7 +313,6 @@ started moveing some things around in the background
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 2.0.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_2</defName>
@@ -343,7 +341,6 @@ remembered to update changelog</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- version 2.0.3 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20240412_3</defName>
@@ -571,7 +568,8 @@ started using "releases" in github</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+<!-- Version 2.0.11 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_20241206"</defName>
 		<date>2024/12/06</date>
 		<banner />
@@ -596,8 +594,8 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+<!-- 2.0.12 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTechCore_2025071"</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -620,6 +618,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
+	</TabulaRasa.UpdateDef>
 	<!-- version 3.0.0 -->
 	</TabulaRasa.UpdateDef>
 		</TabulaRasa.UpdateDef>
