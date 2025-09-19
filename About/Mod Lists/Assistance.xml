@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.6.4523 rev1053</version>
+    <version>1.6.4566 rev606</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -9,14 +9,17 @@
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>taranchuk.moderrorchecker</li>
         <li>void.charactereditor</li>
         <li>edb.preparecarefully</li>
-        <li>taranchuk.moderrorchecker</li>
-        <li>ludeon.rimworld.odyssey</li>
-        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>neronix17.toolbox</li>
-        <li>carnysenpai.traitraritycolors</li>
         <li>neronix17.tweaksgalore</li>
+        <li>ludeon.rimworld.odyssey</li>
+        <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>imranfish.xmlextensions</li>
+        <li>chtech.core</li>
+        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
+        <li>carnysenpai.traitraritycolors</li>
         <li>smashphil.xmlpatchhelper</li>
         <li>gege.customxenotypeexportertoolreupload</li>
         <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
