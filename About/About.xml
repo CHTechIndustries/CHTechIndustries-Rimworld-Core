@@ -9,7 +9,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>3.1.0</modVersion>
+	<modVersion>3.1.2</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -101,7 +101,8 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		-->
 
 		<!-- misc mods -->
-		<li>chtech.devorder</li>
+		<li>chtech.devorder</li> 
+			<!-- this will contain some auto-ordering that will just help organize my modlist so I can see what I have when developing my mods -->
 		<li>void.charactereditor</li>
 		<li>edb.preparecarefully</li>
 
@@ -123,8 +124,10 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>co.uk.epicguru.whatsthatmod</li>
 		
 		<!-- mods to aid publishing / developing -->
+		<li>smashphil.xmlpatchhelper</li>
+		<li>gege.customxenotypeexportertoolreupload</li>
+		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 			<li>gege.exportedxenotypestoragemodfolder</li>
-			<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
