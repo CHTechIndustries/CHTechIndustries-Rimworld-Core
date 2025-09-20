@@ -773,4 +773,38 @@ Also commented out the changelog entries for the "3.0.0-a",b, and c
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- version 3.1.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20250919</defName>
+		<date>2025/09/19</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 3.1.2</header>
+				<text>Reordered some files, modified so the hardcoded lists utilize rimsort
+				</text>
+			</li>
+			<li>
+				<header>3.1.2a</header>
+				<text>modified to undo the rimsort change, as rimsort seems to not want to work (at least for the moment)</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v3.1.2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v3.1.2a</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
