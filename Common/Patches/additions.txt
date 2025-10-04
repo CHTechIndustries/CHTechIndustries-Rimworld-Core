@@ -1,2 +1,1 @@
-enhance limit removing patches
 configuration (currently planned via XML extensions)
