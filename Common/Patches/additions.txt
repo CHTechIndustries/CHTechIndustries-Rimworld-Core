@@ -1,4 +1,4 @@
-
+planned enhancements: 
 
 
 configuration (currently planned via XML extensions)
