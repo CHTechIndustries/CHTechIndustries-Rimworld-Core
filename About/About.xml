@@ -99,7 +99,11 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<li>neronix17.asimov</li>
 			<li>q308744928.cadframework</li>
 		-->
-
+		
+		<!-- vehicle framework mods -->
+		<li>oels.vehiclemapframework</li> <!-- framework for vehicles to have structures on them -->
+		<li>chaotic.rvinterior</li> <!-- framework for vehicles to have structures in them -->	
+		
 		<!-- misc mods -->
 		<li>chtech.devorder</li> 
 			<!-- this will contain some auto-ordering that will just help organize my modlist so I can see what I have when developing my mods -->
@@ -128,6 +132,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>gege.customxenotypeexportertoolreupload</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 			<li>gege.exportedxenotypestoragemodfolder</li>
+			
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
