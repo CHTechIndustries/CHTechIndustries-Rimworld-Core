@@ -1,0 +1,1 @@
+this now re-enables xml extensions, if needed
