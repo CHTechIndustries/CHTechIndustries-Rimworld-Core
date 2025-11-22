@@ -119,7 +119,12 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 -->
 
 	<!-- mods to aid in developing / publishing -->
+			<!-- visulize -->
+				<li>mlie.visualxmlpatches</li>
+				<li>brrainz.visualexceptions</li>
+	 
 	</loadAfter>
+
 	<loadBefore>
 		<!-- core as soft dependency -->
 		<li>chtech.opThings.Pack</li>
@@ -132,9 +137,6 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>gege.customxenotypeexportertoolreupload</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 			<li>gege.exportedxenotypestoragemodfolder</li>
-		<!-- visulize -->
-		<li>mlie.visualxmlpatches</li>
-        <li>brrainz.visualexceptions</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
