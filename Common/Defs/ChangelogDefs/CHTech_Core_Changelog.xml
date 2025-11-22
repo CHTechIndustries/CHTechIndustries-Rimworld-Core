@@ -807,4 +807,30 @@ Also commented out the changelog entries for the "3.0.0-a",b, and c
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- version 3.1.3 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_20251122</defName>
+		<date>2025/11/22</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Version 3.1.3</header>
+				<text>edited some internal stuff, fixed errors, and made it not require xmlextensions for now
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/releases/tag/v3.1.3</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
