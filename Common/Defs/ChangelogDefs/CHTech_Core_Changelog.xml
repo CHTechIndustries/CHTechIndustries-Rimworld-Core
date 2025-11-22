@@ -570,7 +570,7 @@ started using "releases" in github</text>
 	</TabulaRasa.UpdateDef>
 <!-- Version 2.0.11 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20241206"</defName>
+		<defName>CHTechCore_20241206</defName>
 		<date>2024/12/06</date>
 		<banner />
 		<contentList>
@@ -596,7 +596,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 	</TabulaRasa.UpdateDef>
 <!-- 2.0.12 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_2025071"</defName>
+		<defName>CHTechCore_2025071</defName>
 		<date>2025/07/01</date>
 		<banner />
 		<contentList>
@@ -622,7 +622,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 	
 <!-- version 3.0.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_2025071_1"</defName>
+		<defName>CHTechCore_2025071_1</defName>
 		<date>2025/07/01</date>
 		<banner />
 		<contentList>
@@ -724,7 +724,7 @@ also fixed a versioning error. Apparently I transposed a number, making the abou
 
 <!-- version 3.0.1 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_2025071_5"</defName>
+		<defName>CHTechCore_2025071_5</defName>
 		<date>2025/07/01</date>
 		<banner />
 		<contentList>
@@ -750,7 +750,7 @@ Also commented out the changelog entries for the "3.0.0-a",b, and c
 	</TabulaRasa.UpdateDef>
 <!-- version 3.1.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_2025082"</defName>
+		<defName>CHTechCore_2025082</defName>
 		<date>2025/08/02</date>
 		<banner />
 		<contentList>
