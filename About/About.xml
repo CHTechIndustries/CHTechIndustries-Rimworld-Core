@@ -9,7 +9,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>3.1.2</modVersion>
+	<modVersion>3.1.3</modVersion>
 	<description>A simple core for all mods by CHTechIndustries!
 
 This mod is designed for a few simple things:
@@ -43,12 +43,12 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
 		</li>
-		<li>
+	<!--	<li>
 			<packageId>imranfish.xmlextensions</packageId>
 			<displayName>XML Extensions</displayName>
 			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
-		</li>
+		</li> -->
 		<li>
 			<packageId>neronix17.toolbox</packageId>
 			<displayName>Tabula Rasa</displayName>
@@ -57,12 +57,12 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 	</modDependencies>
 	<loadAfter>
 		<!-- all DLC's -->		
-		<li>ludeon.rimworld</li>
-		<li>ludeon.rimworld.royalty</li>
-		<li>ludeon.rimworld.ideology</li>
-		<li>ludeon.rimworld.biotech</li>
-		<li>ludeon.rimworld.anomaly</li>
-		<li>ludeon.rimworld.odyssey</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
 		
 		
 		<!-- frameworks/ mods that should be above this (soft compatibility/ ordering for compat/ in use by other mods so sorting) -->
@@ -99,7 +99,11 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<li>neronix17.asimov</li>
 			<li>q308744928.cadframework</li>
 		-->
-
+		
+		<!-- vehicle framework mods -->
+		<li>oels.vehiclemapframework</li> <!-- framework for vehicles to have structures on them -->
+		<li>chaotic.rvinterior</li> <!-- framework for vehicles to have structures in them -->	
+		
 		<!-- misc mods -->
 		<li>chtech.devorder</li> 
 			<!-- this will contain some auto-ordering that will just help organize my modlist so I can see what I have when developing my mods -->
@@ -128,6 +132,9 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 		<li>gege.customxenotypeexportertoolreupload</li>
 		<li>nightmare.jaxe.publisherplusmultiversionfork</li>
 			<li>gege.exportedxenotypestoragemodfolder</li>
+		<!-- visulize -->
+		<li>mlie.visualxmlpatches</li>
+        <li>brrainz.visualexceptions</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>zyro.ununlimited</li> <!-- code is used here too -->
