@@ -3,6 +3,7 @@
     <version>1.6.4633 rev1260</version>
     <activeMods>
         <li>brrainz.harmony</li>
+        <li>brrainz.visualexceptions</li>
         <li>ludeon.rimworld</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
@@ -20,6 +21,7 @@
         <li>chtech.core</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>carnysenpai.traitraritycolors</li>
+        <li>mlie.visualxmlpatches</li>
         <li>smashphil.xmlpatchhelper</li>
         <li>gege.customxenotypeexportertoolreupload</li>
         <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
