@@ -122,7 +122,9 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<!-- visulize -->
 				<li>mlie.visualxmlpatches</li>
 				<li>brrainz.visualexceptions</li>
+	 
 	</loadAfter>
+
 	<loadBefore>
 		<!-- core as soft dependency -->
 		<li>chtech.opThings.Pack</li>
