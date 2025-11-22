@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.6.4528 rev1222</version>
+    <version>1.6.4633 rev1260</version>
     <activeMods>
         <li>brrainz.harmony</li>
+        <li>brrainz.visualexceptions</li>
         <li>ludeon.rimworld</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
@@ -12,25 +13,23 @@
         <li>redmattis.betterprerequisites</li>
         <li>unlimitedhugs.hugslib</li>
         <li>taranchuk.moderrorchecker</li>
-        <li>mlie.noversionwarning</li>
-        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
-        <li>carnysenpai.traitraritycolors</li>
-        <li>redmattis.bettergeneinheritance</li>
         <li>void.charactereditor</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>ebsg.framework</li>
-        <li>jecrell.jecstools</li>
         <li>edb.preparecarefully</li>
+        <li>zal.jecsliterwom</li>
         <li>neronix17.toolbox</li>
         <li>neronix17.tweaksgalore</li>
-        <li>imranfish.xmlextensions</li>
+        <li>mlie.visualxmlpatches</li>
         <li>chtech.core</li>
+        <li>nightmare.jaxe.publisherplusmultiversionfork</li>
+        <li>carnysenpai.traitraritycolors</li>
+        <li>redmattis.bettergeneinheritance</li>
         <li>sarg.alphagenes</li>
         <li>ebsg.aio</li>
         <li>morebiotechstylegenes.mod</li>
         <li>ebsg.archite</li>
         <li>ebs.abilities</li>
-        <li>zal.jecsliterwom</li>
         <li>torann.arimworldofmagic</li>
         <li>kure.arom</li>
         <li>chtech.rimworldextended.main</li>
