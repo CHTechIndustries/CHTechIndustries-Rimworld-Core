@@ -6,4 +6,5 @@
  			<maxCount>100</maxCount>
 		</value>
 	</Operation>
+	<!-- same but for memes (unsure if a patch can do this, as a mod that did similar had to use c# -->
 </Patch>
