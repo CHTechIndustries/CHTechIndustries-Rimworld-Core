@@ -3,7 +3,7 @@
 	<Operation Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Ideology">
 		<xpath>Defs/PreceptDef[defName="PreferredXenotype"]/maxCount</xpath>
 		<value>
- 			<maxCount>999</maxCount>
+ 			<maxCount>100</maxCount>
 		</value>
 	</Operation>
 </Patch>
