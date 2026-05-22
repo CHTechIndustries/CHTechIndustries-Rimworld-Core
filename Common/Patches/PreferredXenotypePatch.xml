@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-	<Operation Class="PatchOperationReplace">
+	<Operation Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Ideology">
 		<xpath>Defs/PreceptDef[defName="PreferredXenotype"]/maxCount</xpath>
 		<value>
  			<maxCount>999</maxCount>
