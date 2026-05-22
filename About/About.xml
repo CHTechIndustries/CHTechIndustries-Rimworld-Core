@@ -145,6 +145,7 @@ Note: While not a requirment, the mod Need Bar Overflow by AmCh is highly recomm
 			<!-- similar code is included in this mod, so it could cause errors (unlikley), and is redundent (guarenteed) -->
 			<li>paragon.hanul.unlimitedarmor</li>
 			<li>grimm.unlimited</li>
+			<li>obama.idontlike.preferredxenolimit</li> <!-- similar feature integrated into here -->
 			
 	</incompatibleWith>
 </ModMetaData>
