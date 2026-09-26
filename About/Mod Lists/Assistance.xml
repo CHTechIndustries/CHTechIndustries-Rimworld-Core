@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" ?>
 <ModsConfigData>
     <version>1.6.4633 rev1260</version>
     <activeMods>
@@ -25,6 +25,17 @@
         <li>gege.customxenotypeexportertoolreupload</li>
         <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
         <li>co.uk.epicguru.whatsthatmod</li>
+		    <li>ferny.loadthemlast</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>astryl.moderncc</li>
+    <li>void.charactereditor</li>
+    <li>jamesthe1.rimworld.gitupdater</li>
+    <li>ferny.loadinbackground</li>
+    <li>carnysenpai.traitraritycolors</li>
+    <li>zhuma.xenotypesummary</li>
+    <li>ferny.consistenttext</li>
+    <li>andromeda.niceresearchtab</li>
+    <li>co.uk.epicguru.whatsthatmod</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
