@@ -3,8 +3,8 @@
   <version>1.6.4871 rev590</version>
   <activeMods>
     <li>brrainz.harmony</li>
-    <li>ferny.loadthemlast</li>
     <li>brrainz.visualexceptions</li>
+    <li>ferny.loadthemlast</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
@@ -17,21 +17,20 @@
     <li>astryl.moderncc</li>
     <li>void.charactereditor</li>
     <li>edb.preparecarefully</li>
+    <li>taranchuk.moderrorchecker</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>ferny.loadinbackground</li>
     <li>andromeda.milkyway</li>
-    <li>taranchuk.moderrorchecker</li>
     <li>neronix17.toolbox</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>neronix17.tweaksgalore</li>
     <li>mlie.visualxmlpatches</li>
     <li>zhuma.xenotypesummary</li>
     <li>chtech.core</li>
-    <li>ferny.consistenttext</li>
-    <li>andromeda.niceresearchtab</li>
     <li>gege.customxenotypeexportertoolreupload</li>
     <li>nightmare.jaxe.publisherplusmultiversionfork</li>
     <li>smashphil.xmlpatchhelper</li>
+    <li>andromeda.niceresearchtab</li>
     <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
