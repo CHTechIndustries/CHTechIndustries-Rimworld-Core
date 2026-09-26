@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<ModsConfigData>
+  <version>1.6.4871 rev590</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ferny.loadthemlast</li>
+    <li>ludeon.rimworld</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.anomaly</li>
+    <li>ludeon.rimworld.odyssey</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+    <li>superniquito.allideoligionsarefluid</li>
+    <li>com.bymarcin.architecticons</li>
+    <li>mrk.architectmenuoptimizer</li>
+    <li>astryl.moderncc</li>
+    <li>void.charactereditor</li>
+    <li>edb.preparecarefully</li>
+    <li>jamesthe1.rimworld.gitupdater</li>
+    <li>garwel.ideologydevelopmentplus</li>
+    <li>ferny.loadinbackground</li>
+    <li>andromeda.milkyway</li>
+    <li>kenx00x.moremaxmemes</li>
+    <li>alleykat.persistentprecepts</li>
+    <li>neronix17.toolbox</li>
+    <li>carnysenpai.traitraritycolors</li>
+    <li>vanillaexpanded.basegeneration</li>
+    <li>zhuma.xenotypesummary</li>
+    <li>chtech.core</li>
+    <li>ferny.consistenttext</li>
+    <li>andromeda.niceresearchtab</li>
+    <li>co.uk.epicguru.whatsthatmod</li>
+  </activeMods>
+  <knownExpansions>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.anomaly</li>
+    <li>ludeon.rimworld.odyssey</li>
+  </knownExpansions>
+</ModsConfigData>
