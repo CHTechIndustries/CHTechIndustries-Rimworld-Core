@@ -3,6 +3,8 @@
   <version>1.6.4871 rev590</version>
   <activeMods>
     <li>brrainz.harmony</li>
+    <li>ferny.loadthemlast</li>
+    <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
@@ -15,6 +17,8 @@
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>void.charactereditor</li>
     <li>edb.preparecarefully</li>
+    <li>ferny.loadinbackground</li>
+    <li>andromeda.milkyway</li>
     <li>taranchuk.moderrorchecker</li>
     <li>kentington.saveourship2</li>
     <li>neronix17.toolbox</li>
@@ -22,6 +26,9 @@
     <li>neronix17.tweaksgalore</li>
     <li>vanillaexpanded.vchemfuele</li>
     <li>chtech.core</li>
+    <li>mlie.visualxmlpatches</li>
+    <li>zhuma.xenotypesummary</li>
+    <li>andromeda.niceresearchtab</li>
     <li>gege.customxenotypeexportertoolreupload</li>
     <li>chtech.ems</li>
     <li>nightmare.jaxe.publisherplusmultiversionfork</li>
