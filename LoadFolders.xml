@@ -34,5 +34,8 @@
 		
 		<!-- version specific -->
 		<li>1.6</li>
+		
+		<!-- 1.7 exclusive (uses a feature that wasn't part of unity and such) -->
+		<li>1.7</li>
 	</v1.7>
 </loadFolders>
